@@ -1,2 +1,0 @@
-RUN Rscript --vanilla <initial-clean-package>/experiments/readable-experiments/run.R E12 --trial
-Completed. Logs: <initial-clean-package>/outputs/E12-20261120T142739682889Z

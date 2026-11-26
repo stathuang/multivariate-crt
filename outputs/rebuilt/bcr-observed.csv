@@ -1,5 +1,0 @@
-scenario,replicate,theta,graph,method,pvalue,status,error,warnings,elapsed_seconds,shared_elapsed_seconds,dataset,design,panel
-bcr_observed_erplus60,1,0,fitted,RF,0.0179820179820179,ok,,,97.379999999999995,324.55399999999997,bcr,observed,wang_erplus60
-bcr_observed_erplus60,1,0,fitted,LRT,9.5810370533007034e-06,ok,,,1.3460000000000036,324.55399999999997,bcr,observed,wang_erplus60
-bcr_observed_erplus60,1,0,fitted,dCRT (L1),0.69749994977963725,ok,,,5.1120000000000232,324.55399999999997,bcr,observed,wang_erplus60
-bcr_observed_erplus60,1,0,fitted,dCRT (RF),0.4067435803320284,ok,,The response has five or fewer unique values.  Are you sure you want to do regression?,3.8179999999999841,324.55399999999997,bcr,observed,wang_erplus60

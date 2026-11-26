@@ -1,2 +1,0 @@
-RUN Rscript --vanilla <initial-clean-package>/experiments/stock-rf1000/engine/scripts/run.R --scenario stock_three_stat_replay_T1 --campaign replication-20261120T142907509432Z --workers 1 --backend serial --purpose timing --limit 1
-Completed. Logs: <initial-clean-package>/outputs/stock-20261120T142907509432Z

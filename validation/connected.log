@@ -1,2 +1,0 @@
-RUN Rscript --vanilla validate.R
-Completed. Logs: <initial-clean-package>/outputs/connected-20261120T142756066069Z

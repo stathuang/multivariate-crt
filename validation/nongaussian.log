@@ -1,4 +1,0 @@
-RUN Rscript --vanilla run.R prepare
-RUN Rscript --vanilla run.R check
-RUN Rscript --vanilla run.R pilot
-Completed. Logs: <initial-clean-package>/outputs/nongaussian-20261120T142756411690Z

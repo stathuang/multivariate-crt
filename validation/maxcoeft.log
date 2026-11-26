@@ -1,2 +1,0 @@
-RUN <temporary-python>/bin/python -B <initial-clean-package>/experiments/e5-max-coefficient-t-20261103/src/run.py --stage pilot --workers 1 --out runs/20261120T142759505506Z
-Completed. Logs: <initial-clean-package>/outputs/maxcoeft-20261120T142759505506Z

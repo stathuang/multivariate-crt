@@ -1,2 +1,0 @@
-RUN Rscript --vanilla <initial-clean-package>/scripts/bcr-adopted.R bcr-observed <initial-clean-package>/outputs/bcr-observed-20261120T142804296527Z --trial
-Completed. Logs: <initial-clean-package>/outputs/bcr-observed-20261120T142804296527Z

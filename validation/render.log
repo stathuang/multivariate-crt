@@ -1,4 +1,0 @@
-Warning message:
-Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
-ℹ Please use `linewidth` instead. 
-All 20 manuscript figure assets rebuilt; graphical points and SE endpoints verified.
