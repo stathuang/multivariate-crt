@@ -1,0 +1,15 @@
+{
+  "main_l_l_w": "S1a",
+  "main_h_l_w": "S1b",
+  "main_l_l_m": "S2a",
+  "main_h_l_m": "S2b",
+  "main_l_gl_w": "S3a",
+  "main_h_gl_w": "S3b",
+  "main_l_gl_m": "S4a",
+  "main_h_gl_m": "S4b",
+  "supergraph_h_l_w": "S6",
+  "univariate_l_l_w": "S5a",
+  "univariate_h_l_w": "S5b",
+  "t3_l_l_w": "S7a",
+  "t3_h_l_w": "S7b"
+}

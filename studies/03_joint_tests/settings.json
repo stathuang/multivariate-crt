@@ -1,0 +1,51 @@
+{
+  "name": "full-dense-sparse-M999-500",
+  "n": 80,
+  "p": 120,
+  "t": 8,
+  "M": 999,
+  "L": 3,
+  "alpha": 0.05,
+  "nuisance_penalty": 0.2,
+  "target_penalty": 1.0,
+  "designs": [
+    "A",
+    "B"
+  ],
+  "arrangements": [
+    "connected"
+  ],
+  "cells": [
+    {
+      "pattern": "null",
+      "theta": 0.0
+    },
+    {
+      "pattern": "dense",
+      "theta": 0.5
+    },
+    {
+      "pattern": "dense",
+      "theta": 0.75
+    },
+    {
+      "pattern": "dense",
+      "theta": 1.0
+    },
+    {
+      "pattern": "sparse",
+      "theta": 0.5
+    },
+    {
+      "pattern": "sparse",
+      "theta": 0.75
+    },
+    {
+      "pattern": "sparse",
+      "theta": 1.0
+    }
+  ],
+  "rep_start": 10000,
+  "rep_stop": 10500,
+  "scope": "Full reproduction of the 14 connected-target cells at the three displayed nonzero signal strengths."
+}

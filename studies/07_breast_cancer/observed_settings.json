@@ -1,0 +1,33 @@
+{
+  "id": "bcr_observed_erplus60",
+  "family": "application",
+  "dataset": "bcr",
+  "design": "observed",
+  "group": null,
+  "panel": "wang_erplus60",
+  "repetitions": 1,
+  "M": 1000,
+  "L": 3,
+  "p_rule": "discrete",
+  "response_family": "multinomial",
+  "theta": 0,
+  "statistics": "RF",
+  "baselines": [
+    "LRT",
+    "dCRT (L1)",
+    "dCRT (RF)"
+  ],
+  "methods": [
+    "RF",
+    "LRT",
+    "dCRT (L1)",
+    "dCRT (RF)"
+  ],
+  "graph_ids": "fitted",
+  "seed_base": 0,
+  "observed_seed": 2023,
+  "data_file": "bcr_erplus60.rds",
+  "target_source": "prepared dataset: target; outcome-selected at seed2023",
+  "input_manifest": "INPUT_MANIFEST.csv",
+  "interpretation": "Exploratory fixed-data analysis"
+}

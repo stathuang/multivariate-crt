@@ -1,0 +1,22 @@
+{
+  "Simulation/CRT/oracle_plugin_power_curve.pdf": "Figure1.pdf",
+  "Application/Stock/Stock-Noise.pdf": "Figure2.pdf",
+  "Simulation/Appendix/MVN-CRT-nongaussian.pdf": "FigureS8.pdf",
+  "Simulation/CRT/centering_comparison.pdf": "FigureS9.pdf",
+  "Simulation/CRT/connected_comparison.pdf": "FigureS10.pdf",
+  "Application/Stock/stocks_G.pdf": "FigureS11.pdf",
+  "Application/BCR/P-LRT_histogram.pdf": "FigureS12.pdf",
+  "Simulation/CRT/CRT-l_l_w.pdf": "FigureS1a.pdf",
+  "Simulation/CRT/CRT-h_l_w.pdf": "FigureS1b.pdf",
+  "Simulation/CRT/CRT-l_l_m.pdf": "FigureS2a.pdf",
+  "Simulation/CRT/CRT-h_l_m.pdf": "FigureS2b.pdf",
+  "Simulation/CRT/CRT-l_gl_w.pdf": "FigureS3a.pdf",
+  "Simulation/CRT/CRT-h_gl_w.pdf": "FigureS3b.pdf",
+  "Simulation/CRT/CRT-l_gl_m.pdf": "FigureS4a.pdf",
+  "Simulation/CRT/CRT-h_gl_m.pdf": "FigureS4b.pdf",
+  "Simulation/Appendix/CRT-h_l_w-LM-R-SSR-OversizedGraphs.pdf": "FigureS6.pdf",
+  "Simulation/Appendix/CRT-l_l_w-univariate.pdf": "FigureS5a.pdf",
+  "Simulation/Appendix/CRT-h_l_w-univariate.pdf": "FigureS5b.pdf",
+  "Simulation/Appendix/CRT-l_l_w-t3.pdf": "FigureS7a.pdf",
+  "Simulation/Appendix/CRT-h_l_w-t3.pdf": "FigureS7b.pdf"
+}

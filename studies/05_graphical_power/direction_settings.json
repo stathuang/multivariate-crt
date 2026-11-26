@@ -1,0 +1,37 @@
+{
+  "sample_sizes": [
+    40,
+    120,
+    360
+  ],
+  "direction_repetitions_per_n": 500,
+  "centering_repetitions_per_n": 100,
+  "M": 999,
+  "L": 1,
+  "background_penalty_coefficient": 1,
+  "target_penalty": 1,
+  "alpha": 0.05,
+  "seed_base": 2026100323,
+  "rng": [
+    "Mersenne-Twister",
+    "Inversion",
+    "Rejection"
+  ],
+  "cases": [
+    "null",
+    "positive",
+    "negative",
+    "orthogonal"
+  ],
+  "methods": [
+    "original",
+    "centered_pool",
+    "centered_identity",
+    "scalar_twosided"
+  ],
+  "score_rounding": "none",
+  "p_rule": "(1+number(copy score >= observed score))/(M+1)",
+  "reject_rule": "p<=0.05",
+  "seed_rule": "seed_base+10000*k+replicate; k=1,2,3",
+  "failure_rule": "retain original identifier and error; no replacements or reduced denominators"
+}

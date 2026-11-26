@@ -1,0 +1,16 @@
+# Inputs and generated results stay local.
+/data/raw/
+/data/processed/
+/results/generated/
+/results/quick/
+/results/figures/
+/results/tables/
+/.venv/
+/renv/library/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.DS_Store
+/environment/sources/
+/environment/R-library/
