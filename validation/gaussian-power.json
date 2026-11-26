@@ -1,0 +1,12 @@
+{
+  "test": "gaussian-power",
+  "command": [
+    "<temporary-python>/bin/python",
+    "-B",
+    "scripts/run.py",
+    "gaussian-power",
+    "--trial"
+  ],
+  "exit_code": 0,
+  "seconds": 4.954132166923955
+}

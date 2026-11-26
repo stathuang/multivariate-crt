@@ -1,0 +1,2 @@
+RUN <temporary-python>/bin/python -B <initial-clean-package>/experiments/d5-joint-comparison-20261007/src/run_confirmation.py --config configs/smoke.json --workers 1
+Completed. Logs: <initial-clean-package>/outputs/matched-20261120T142757805727Z

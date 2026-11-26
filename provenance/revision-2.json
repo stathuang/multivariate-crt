@@ -1,0 +1,32 @@
+{
+  "base_archive_sha256": "7de9148480c029318c2dc1e7626f2844f445247f04cf1e8d12c068c04fddb265",
+  "unchanged_existing_code_files": 127,
+  "changed_existing_files": [
+    {
+      "file": "THIRD_PARTY.md",
+      "old_sha256": "94f34f73279c7fc61580230251fa67bcad4ea2bc4d20f22983a14165ea02f2d8",
+      "new_sha256": "0d828cc973ca43631a756d4692a8db154af15d371cd40c7f2dcd8b16a79646d9"
+    },
+    {
+      "file": "VALIDATION.md",
+      "old_sha256": "48d5c855c840b9a2f6288693f6a277b45609a3444b4b6fb5210086878821549f",
+      "new_sha256": "e21b01894ca04d2309632ba481853f4c43ed1d8245d65ac3428b1dba38a713b3"
+    },
+    {
+      "file": "DATA.md",
+      "old_sha256": "bc83543388defe63adc233afb2af2450e768041e40dd5ab89aea6519dcb2216e",
+      "new_sha256": "a5d02deb4cfcf5b69099a5bfe430608c71f3d3ad1d8d9f6ab14f49f5070c823a"
+    },
+    {
+      "file": "README.md",
+      "old_sha256": "f074932750a81ffe327021cc86dedc2c67a7e01de89b25c8451e5b4fc98ce047",
+      "new_sha256": "1df07593fbb8f39c3339c7913d8e83a410f292a05d7740dd42369d4b8b8f1ce7"
+    },
+    {
+      "file": "provenance/dcrt-source.md",
+      "old_sha256": "5273c89699c0c9440a86402f9cb735e7853af6de0ed702d9100da4bec42c1ed9",
+      "new_sha256": "a37a674ef3fed0b2a6688e81a54f42162c99670fef115bd1e0ee81df0fb9295c"
+    }
+  ],
+  "purpose": "GitHub publication candidate"
+}

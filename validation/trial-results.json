@@ -1,0 +1,181 @@
+[
+  {
+    "test": "gaussian-size",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "gaussian-size",
+      "--trial"
+    ],
+    "exit_code": 0,
+    "seconds": 4.610653542215005
+  },
+  {
+    "test": "gaussian-power",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "gaussian-power",
+      "--trial"
+    ],
+    "exit_code": 0,
+    "seconds": 4.954132166923955
+  },
+  {
+    "test": "linear-low",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "E03",
+      "--trial"
+    ],
+    "exit_code": 0,
+    "seconds": 12.908151458017528
+  },
+  {
+    "test": "binary-low",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "E07",
+      "--trial"
+    ],
+    "exit_code": 0,
+    "seconds": 16.114487290848047
+  },
+  {
+    "test": "binary-high",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "E09",
+      "--trial"
+    ],
+    "exit_code": 0,
+    "seconds": 21.672655750066042
+  },
+  {
+    "test": "univariate",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "E12",
+      "--trial"
+    ],
+    "exit_code": 0,
+    "seconds": 4.478828875115141
+  },
+  {
+    "test": "t3",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "E14",
+      "--trial"
+    ],
+    "exit_code": 0,
+    "seconds": 11.900281291920692
+  },
+  {
+    "test": "connected",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "connected",
+      "--trial"
+    ],
+    "exit_code": 0,
+    "seconds": 0.34967387514188886
+  },
+  {
+    "test": "nongaussian",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "nongaussian",
+      "--trial"
+    ],
+    "exit_code": 0,
+    "seconds": 3.0924614588730037
+  },
+  {
+    "test": "matched",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "matched",
+      "--trial"
+    ],
+    "exit_code": 0,
+    "seconds": 6.485359833110124
+  },
+  {
+    "test": "maxcoeft",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "maxcoeft",
+      "--trial"
+    ],
+    "exit_code": 0,
+    "seconds": 9.368346750037745
+  },
+  {
+    "test": "bcr-observed",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "bcr-observed",
+      "--trial"
+    ],
+    "exit_code": 0,
+    "seconds": 66.24343887483701
+  },
+  {
+    "test": "bcr-null",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "bcr-null",
+      "--trial"
+    ],
+    "exit_code": 0,
+    "seconds": 58.62098295800388
+  },
+  {
+    "test": "stock",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "stock",
+      "--trial"
+    ],
+    "exit_code": 0,
+    "seconds": 148.27402187511325
+  },
+  {
+    "test": "stock-graph",
+    "command": [
+      "<temporary-python>/bin/python",
+      "-B",
+      "scripts/run.py",
+      "stock-graph"
+    ],
+    "exit_code": 0,
+    "seconds": 0.34277237486094236
+  }
+]

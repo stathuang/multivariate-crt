@@ -1,0 +1,86 @@
+--- dcrt-upstream-functions.R
++++ dcrt-adopted-functions.R
+@@ -1,4 +1,4 @@
+-dCRT <- function(X, Y, Sigma_X = NULL, FDR = 0.1, candidate_set = 1:length(X[1, ]), mean_X_mat = NULL, Gen_X = NULL, CDR = "Consist w model", model = "Gaussian_lasso", d.interaction = F, RF.num.trees = c(100, 30), lambda.seq = NULL, k = NULL, M = 50000, central = F, MC_free = T, X_quantile_mat = NULL, X_cond_var_mat = NULL, return.pvalues = T, eps_dI = 1e-08) {
++d_CRT <- function(X, Y, Sigma_X = NULL, FDR = 0.1, candidate_set = 1:length(X[1, ]), mean_X_mat = NULL, Gen_X = NULL, CDR = "Consist w model", model = "Gaussian_lasso", d.interaction = F, RF.num.trees = c(100, 30), lambda.seq = NULL, k = NULL, M = 50000, central = F, MC_free = T, X_quantile_mat = NULL, X_cond_var_mat = NULL, return.pvalues = T, eps_dI = 1e-08) {
+     if (!model %in% c("Gaussian_lasso", "Binomial_lasso", "RF")) {
+         print("Error: please correctly specify the model for Y.")
+         return()
+@@ -54,9 +54,12 @@
+             selection_set <- CDR(Y, X)
+         }
+     }
+-    selection_set <- intersect(candidate_set, selection_set)
+-    print("############# Candidate set ###############")
+-    print(selection_set)
++    if (length(selection_set) == 0) {
++        return(NULL)
++    }
++    else {
++        selection_set <- intersect(candidate_set, selection_set)
++    }
+     sigma2_lst <- vector("list", length(selection_set))
+     X_bar_lst <- vector("list", length(selection_set))
+     offsets_lst <- vector("list", length(selection_set))
+@@ -94,7 +97,7 @@
+                 imp_obe_lst[[j]] <- imp_obe
+             }
+             else {
+-                rf.fit <- randomForest(x = X[, -indx] - mean_X, y = Y, ntree = n_tree)
++                rf.fit <- randomForest(x = X[, -indx], y = Y, ntree = n_tree)
+                 eps_res <- Y - rf.fit$predicted
+                 if (MC_free == F | is.null(Gen_X)) {
+                   imp_obe <- abs(mean(X_res_ob * eps_res))
+@@ -125,8 +128,6 @@
+                   eps_res <- Y - offsets
+                 }
+                 offsets_lst[[j]] <- offsets
+-                print("############# distilled ###############")
+-                print(indx)
+                 if (type == "cov") {
+                   if (!is.null(Gen_X)) {
+                     X_quant <- X_quantile_mat[, indx]
+@@ -175,8 +176,6 @@
+                     imp_obe <- abs(mean(X_res_ob * eps_res))/mean(X_res_ob^2)
+                   }
+                 }
+-                print("############# distilled ###############")
+-                print(indx)
+             }
+         }
+         if (k == 0) {
+@@ -226,8 +225,6 @@
+                   pvl_lst[indx] <- mean(ifelse(t_lst >= imp_obe, 1, 0))
+                 }
+             }
+-            print("############# d0CRT pvalue ###############")
+-            print(paste(indx, pvl_lst[indx], sep = ": "))
+         }
+         else {
+             if (model == "RF") {
+@@ -273,8 +270,6 @@
+                   pvl_lst[indx] <- mean(c(1, ifelse(t_lst >= imp_obe_lst[[j]], 1, 0)))
+                 }
+             }
+-            print("############# dkCRT pvalue ###############")
+-            print(paste(indx, pvl_lst[indx], sep = ": "))
+         }
+     }
+     CRT_BHq_lst <- p.adjust(pvl_lst, method = "BH")
+@@ -287,6 +282,7 @@
+     }
+ }
+ Creat_condition_gaussian <- function(X, indx, Sigma = NULL, lambda = NULL) {
++    p = ncol(X)
+     if (is.null(Sigma)) {
+         cv_lasso_x <- cv.glmnet(X[, -indx], X[, indx], alpha = 1, intercept = T, dfmax = as.integer(p/2))
+         lambda_x <- cv_lasso_x$lambda.min
+@@ -298,7 +294,7 @@
+     }
+     else {
+         beta_x <- solve(Sigma[-indx, -indx], Sigma[-indx, indx])
+-        X_bar <- X[, -indx] %*% beta_x
++        X_bar <- X[, -indx, drop = FALSE] %*% beta_x
+         sigma2_x <- Sigma[indx, indx] - Sigma[indx, -indx] %*% beta_x
+     }
+     return(list(mean_x = X_bar, sigma2_x = sigma2_x, gamma = beta_x))

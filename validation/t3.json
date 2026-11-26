@@ -1,0 +1,12 @@
+{
+  "test": "t3",
+  "command": [
+    "<temporary-python>/bin/python",
+    "-B",
+    "scripts/run.py",
+    "E14",
+    "--trial"
+  ],
+  "exit_code": 0,
+  "seconds": 11.900281291920692
+}

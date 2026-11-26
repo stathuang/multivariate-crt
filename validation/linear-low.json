@@ -1,0 +1,12 @@
+{
+  "test": "linear-low",
+  "command": [
+    "<temporary-python>/bin/python",
+    "-B",
+    "scripts/run.py",
+    "E03",
+    "--trial"
+  ],
+  "exit_code": 0,
+  "seconds": 12.908151458017528
+}

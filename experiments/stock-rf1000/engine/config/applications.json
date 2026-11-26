@@ -1,0 +1,368 @@
+{
+  "scenarios": [
+    {
+      "id": "stock_three_stat_replay_T1",
+      "family": "application",
+      "dataset": "stock",
+      "design": "observed",
+      "group": "T1",
+      "panel": null,
+      "repetitions": 1,
+      "M": 1000,
+      "L": 3,
+      "p_rule": "discrete",
+      "response_family": "gaussian",
+      "theta": 0,
+      "statistics": [
+        "LM-L1-R-SSR",
+        "RF-RR",
+        "RF-D"
+      ],
+      "baselines": [
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "methods": [
+        "LM-L1-R-SSR",
+        "RF-RR",
+        "RF-D",
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "graph_ids": "fitted",
+      "seed_base": 0,
+      "observed_seed": 202311,
+      "data_file": "external-cache/prepared/stock.rds",
+      "target_source": "prepared dataset: targets.T1",
+      "input_manifest": "INPUT_MANIFEST.csv",
+      "interpretation": "Exploratory fixed-data analysis",
+      "purpose": "Authorized complete-DIA stock analysis with 1000 trees; historical source method order preserved",
+      "forest_trees": 1000,
+      "audit_policy": "stock_rank_draw_and_rng_v1"
+    },
+    {
+      "id": "stock_three_stat_replay_T2",
+      "family": "application",
+      "dataset": "stock",
+      "design": "observed",
+      "group": "T2",
+      "panel": null,
+      "repetitions": 1,
+      "M": 1000,
+      "L": 3,
+      "p_rule": "discrete",
+      "response_family": "gaussian",
+      "theta": 0,
+      "statistics": [
+        "LM-L1-R-SSR",
+        "RF-RR",
+        "RF-D"
+      ],
+      "baselines": [
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "methods": [
+        "LM-L1-R-SSR",
+        "RF-RR",
+        "RF-D",
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "graph_ids": "fitted",
+      "seed_base": 0,
+      "observed_seed": 20231112,
+      "data_file": "external-cache/prepared/stock.rds",
+      "target_source": "prepared dataset: targets.T2",
+      "input_manifest": "INPUT_MANIFEST.csv",
+      "interpretation": "Exploratory fixed-data analysis",
+      "purpose": "Authorized complete-DIA stock analysis with 1000 trees; historical source method order preserved",
+      "forest_trees": 1000,
+      "audit_policy": "stock_rank_draw_and_rng_v1"
+    },
+    {
+      "id": "stock_noise_05",
+      "family": "application",
+      "dataset": "stock",
+      "design": "stock_added_noise",
+      "group": "T2",
+      "panel": null,
+      "repetitions": 400,
+      "M": 400,
+      "L": 3,
+      "p_rule": "discrete",
+      "response_family": "gaussian",
+      "theta": 0.05,
+      "statistics": [
+        "LM-L1-R-SSR",
+        "RF-RR"
+      ],
+      "baselines": [
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "methods": [
+        "LM-L1-R-SSR",
+        "RF-RR",
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "graph_ids": "fitted",
+      "seed_base": 0,
+      "observed_seed": null,
+      "data_file": "external-cache/prepared/stock.rds",
+      "target_source": "prepared dataset: targets.T2",
+      "input_manifest": "INPUT_MANIFEST.csv",
+      "interpretation": "Conditional on frozen prepared inputs and fitted null; not actual-data validity",
+      "forest_trees": 1000,
+      "audit_policy": "stock_rank_draw_and_rng_v1",
+      "purpose": "Authorized complete-DIA stock analysis with 1000 trees; historical source method order preserved"
+    },
+    {
+      "id": "stock_noise_10",
+      "family": "application",
+      "dataset": "stock",
+      "design": "stock_added_noise",
+      "group": "T2",
+      "panel": null,
+      "repetitions": 400,
+      "M": 400,
+      "L": 3,
+      "p_rule": "discrete",
+      "response_family": "gaussian",
+      "theta": 0.1,
+      "statistics": [
+        "LM-L1-R-SSR",
+        "RF-RR"
+      ],
+      "baselines": [
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "methods": [
+        "LM-L1-R-SSR",
+        "RF-RR",
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "graph_ids": "fitted",
+      "seed_base": 0,
+      "observed_seed": null,
+      "data_file": "external-cache/prepared/stock.rds",
+      "target_source": "prepared dataset: targets.T2",
+      "input_manifest": "INPUT_MANIFEST.csv",
+      "interpretation": "Conditional on frozen prepared inputs and fitted null; not actual-data validity",
+      "forest_trees": 1000,
+      "audit_policy": "stock_rank_draw_and_rng_v1",
+      "purpose": "Authorized complete-DIA stock analysis with 1000 trees; historical source method order preserved"
+    },
+    {
+      "id": "stock_noise_15",
+      "family": "application",
+      "dataset": "stock",
+      "design": "stock_added_noise",
+      "group": "T2",
+      "panel": null,
+      "repetitions": 400,
+      "M": 400,
+      "L": 3,
+      "p_rule": "discrete",
+      "response_family": "gaussian",
+      "theta": 0.15000000000000002,
+      "statistics": [
+        "LM-L1-R-SSR",
+        "RF-RR"
+      ],
+      "baselines": [
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "methods": [
+        "LM-L1-R-SSR",
+        "RF-RR",
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "graph_ids": "fitted",
+      "seed_base": 0,
+      "observed_seed": null,
+      "data_file": "external-cache/prepared/stock.rds",
+      "target_source": "prepared dataset: targets.T2",
+      "input_manifest": "INPUT_MANIFEST.csv",
+      "interpretation": "Conditional on frozen prepared inputs and fitted null; not actual-data validity",
+      "forest_trees": 1000,
+      "audit_policy": "stock_rank_draw_and_rng_v1",
+      "purpose": "Authorized complete-DIA stock analysis with 1000 trees; historical source method order preserved"
+    },
+    {
+      "id": "stock_noise_20",
+      "family": "application",
+      "dataset": "stock",
+      "design": "stock_added_noise",
+      "group": "T2",
+      "panel": null,
+      "repetitions": 400,
+      "M": 400,
+      "L": 3,
+      "p_rule": "discrete",
+      "response_family": "gaussian",
+      "theta": 0.2,
+      "statistics": [
+        "LM-L1-R-SSR",
+        "RF-RR"
+      ],
+      "baselines": [
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "methods": [
+        "LM-L1-R-SSR",
+        "RF-RR",
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "graph_ids": "fitted",
+      "seed_base": 0,
+      "observed_seed": null,
+      "data_file": "external-cache/prepared/stock.rds",
+      "target_source": "prepared dataset: targets.T2",
+      "input_manifest": "INPUT_MANIFEST.csv",
+      "interpretation": "Conditional on frozen prepared inputs and fitted null; not actual-data validity",
+      "forest_trees": 1000,
+      "audit_policy": "stock_rank_draw_and_rng_v1",
+      "purpose": "Authorized complete-DIA stock analysis with 1000 trees; historical source method order preserved"
+    },
+    {
+      "id": "stock_noise_25",
+      "family": "application",
+      "dataset": "stock",
+      "design": "stock_added_noise",
+      "group": "T2",
+      "panel": null,
+      "repetitions": 400,
+      "M": 400,
+      "L": 3,
+      "p_rule": "discrete",
+      "response_family": "gaussian",
+      "theta": 0.25,
+      "statistics": [
+        "LM-L1-R-SSR",
+        "RF-RR"
+      ],
+      "baselines": [
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "methods": [
+        "LM-L1-R-SSR",
+        "RF-RR",
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "graph_ids": "fitted",
+      "seed_base": 0,
+      "observed_seed": null,
+      "data_file": "external-cache/prepared/stock.rds",
+      "target_source": "prepared dataset: targets.T2",
+      "input_manifest": "INPUT_MANIFEST.csv",
+      "interpretation": "Conditional on frozen prepared inputs and fitted null; not actual-data validity",
+      "forest_trees": 1000,
+      "audit_policy": "stock_rank_draw_and_rng_v1",
+      "purpose": "Authorized complete-DIA stock analysis with 1000 trees; historical source method order preserved"
+    },
+    {
+      "id": "stock_typeI_T1",
+      "family": "application",
+      "dataset": "stock",
+      "design": "stock_fixed_start_null",
+      "group": "T1",
+      "panel": null,
+      "repetitions": 400,
+      "M": 400,
+      "L": 3,
+      "p_rule": "discrete",
+      "response_family": "gaussian",
+      "theta": 0,
+      "statistics": [
+        "LM-L1-R-SSR",
+        "RF-RR"
+      ],
+      "baselines": [
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "methods": [
+        "LM-L1-R-SSR",
+        "RF-RR",
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "graph_ids": "fitted",
+      "seed_base": 0,
+      "observed_seed": null,
+      "data_file": "external-cache/prepared/stock.rds",
+      "target_source": "prepared dataset: targets.T1",
+      "input_manifest": "INPUT_MANIFEST.csv",
+      "interpretation": "Conditional on frozen prepared inputs and fitted null; not actual-data validity",
+      "forest_trees": 1000,
+      "audit_policy": "stock_rank_draw_and_rng_v1",
+      "purpose": "Authorized complete-DIA stock analysis with 1000 trees; historical source method order preserved"
+    },
+    {
+      "id": "stock_typeI_T2",
+      "family": "application",
+      "dataset": "stock",
+      "design": "stock_fixed_start_null",
+      "group": "T2",
+      "panel": null,
+      "repetitions": 400,
+      "M": 400,
+      "L": 3,
+      "p_rule": "discrete",
+      "response_family": "gaussian",
+      "theta": 0,
+      "statistics": [
+        "LM-L1-R-SSR",
+        "RF-RR"
+      ],
+      "baselines": [
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "methods": [
+        "LM-L1-R-SSR",
+        "RF-RR",
+        "De-Lasso",
+        "dCRT (L1)",
+        "dCRT (RF)"
+      ],
+      "graph_ids": "fitted",
+      "seed_base": 0,
+      "observed_seed": null,
+      "data_file": "external-cache/prepared/stock.rds",
+      "target_source": "prepared dataset: targets.T2",
+      "input_manifest": "INPUT_MANIFEST.csv",
+      "interpretation": "Conditional on frozen prepared inputs and fitted null; not actual-data validity",
+      "forest_trees": 1000,
+      "audit_policy": "stock_rank_draw_and_rng_v1",
+      "purpose": "Authorized complete-DIA stock analysis with 1000 trees; historical source method order preserved"
+    }
+  ]
+}

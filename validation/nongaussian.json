@@ -1,0 +1,12 @@
+{
+  "test": "nongaussian",
+  "command": [
+    "<temporary-python>/bin/python",
+    "-B",
+    "scripts/run.py",
+    "nongaussian",
+    "--trial"
+  ],
+  "exit_code": 0,
+  "seconds": 3.0924614588730037
+}

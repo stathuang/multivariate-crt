@@ -1,0 +1,110 @@
+[
+  {
+    "file": "experiments/readable-experiments/E25.R",
+    "source": "experiments/readable-experiments/E25.R",
+    "original_sha256": "66d479fe051491cabb204a0ce833a37a079efcb7f1ec8e25b3fa3a7ee7c80af1",
+    "package_sha256": "120f55286ff01eef7ccb467d1a607b8c3b11348fb18b95531309463fafcc1b47"
+  },
+  {
+    "file": "experiments/readable-experiments/E23-E24.R",
+    "source": "experiments/readable-experiments/E23-E24.R",
+    "original_sha256": "f08d5c971ac6ac97175980103540337d3f8bb39660c59b06b90d60fd96e5e007",
+    "package_sha256": "120f55286ff01eef7ccb467d1a607b8c3b11348fb18b95531309463fafcc1b47"
+  },
+  {
+    "file": "experiments/readable-experiments/run.R",
+    "source": "experiments/readable-experiments/run.R",
+    "original_sha256": "d7afc3efd984ba5907112b80006fb39d39845d245fd032b545455b4ef56fce6e",
+    "package_sha256": "397ea58d84b35b674682852ce3cf67260e6797c18c594d1ca2bfbbcf159e2527"
+  },
+  {
+    "file": "experiments/readable-experiments/prepare-bcr.R",
+    "source": "experiments/readable-experiments/prepare-bcr.R",
+    "original_sha256": "f68d1555449d9b8b91a06640f63976c5f97bf25051b37252758be170721b7048",
+    "package_sha256": "120f55286ff01eef7ccb467d1a607b8c3b11348fb18b95531309463fafcc1b47"
+  },
+  {
+    "file": "experiments/readable-experiments/prepare-stock.R",
+    "source": "experiments/readable-experiments/prepare-stock.R",
+    "original_sha256": "84310899c733cffcdf4b9bcbcc5fe7dee15b886c0954e4a03d102724990b3f8b",
+    "package_sha256": "120f55286ff01eef7ccb467d1a607b8c3b11348fb18b95531309463fafcc1b47"
+  },
+  {
+    "file": "experiments/readable-experiments/R/run_tools.R",
+    "source": "experiments/readable-experiments/R/run_tools.R",
+    "original_sha256": "a2c92f3c355b96429cdeb8e16716ae0ca17a41661d4c7afb660b769910932133",
+    "package_sha256": "c6ad32d51d90a1a6f8285a02ded09a1762aefbd0e6170cb60f69c462f1350cc3"
+  },
+  {
+    "file": "experiments/readable-experiments/R/dcrt.R",
+    "source": "experiments/readable-experiments/R/dcrt.R",
+    "original_sha256": "d568af0fea15bbe06247e2d10f407bbc73b56410a92f1dfd63c2c70633fa3de5",
+    "package_sha256": "6d343ebc525dcea0edd83afa28e398e4f2aeec4009e08805a2cb99119fa1c107"
+  },
+  {
+    "file": "experiments/appendix-b-lw-20261001/R/run_tools.R",
+    "source": "experiments/appendix-b-lw-20261001/R/run_tools.R",
+    "original_sha256": "a2c92f3c355b96429cdeb8e16716ae0ca17a41661d4c7afb660b769910932133",
+    "package_sha256": "c6ad32d51d90a1a6f8285a02ded09a1762aefbd0e6170cb60f69c462f1350cc3"
+  },
+  {
+    "file": "experiments/reproducible-study/config/simulations.json",
+    "source": "experiments/reproducible-study/config/simulations.json",
+    "original_sha256": "a48c70fe2eb70fa47e6f3e8820e270ec1702bf9659a1559d2380344d678824b5",
+    "package_sha256": "3c65f04cfc327c8da56014890357c5ec9f99c4f236c22198774d67f9ff4cb746"
+  },
+  {
+    "file": "reference/graphical/plot-input.rds",
+    "source": "reports/20261009-220333-formal-figure-integration/checks/plot-input.rds",
+    "original_sha256": "5e19490ccb92952a8f1aaeedc5ccb18ecc56ee7a84461a2421b4d0f19bea391f",
+    "package_sha256": "5e696b2618581ae33ef3dc99cd54cf410a28982b81311d0d6b4a22e9fa57aae7"
+  },
+  {
+    "file": "reference/graphical/counts.csv",
+    "source": "reports/20261009-220333-formal-figure-integration/checks/verified-simulation-counts.csv",
+    "original_sha256": "0b305ebb11d74232a85d40ddb16b48915f0a9b64ef3368460512d571400f4919",
+    "package_sha256": "416aa212c70f1d0a87b674c76e031da2c3b035170fdf2ed998cde7674134ec56"
+  },
+  {
+    "file": "experiments/e5-max-coefficient-t-20261103/src/inputs.py",
+    "source": "experiments/e5-max-coefficient-t-20261103/src/inputs.py",
+    "original_sha256": "aaa0c98dc6ceb0a0b111ba45f61f8dfc7cebd1b474f6c1c148d2be3cf66aa946",
+    "package_sha256": "ffb729343aad798d0e568eea9837722d813d939100d60e9a67509b8154d505b2"
+  },
+  {
+    "file": "experiments/e5-max-coefficient-t-20261103/src/run.py",
+    "source": "experiments/e5-max-coefficient-t-20261103/src/run.py",
+    "original_sha256": "34ad04a2129b2435a7de4054b683e43b6f84ca30ae703046526bd5fbf70e3ef2",
+    "package_sha256": "c72a6891565d46b0f20645ba5cef9c2a5aa668301872f79694eac372359ca0f0"
+  },
+  {
+    "file": "experiments/gcrt-direction-centering-m999-20261008/run.R",
+    "source": "experiments/gcrt-direction-centering-m999-20261008/run.R",
+    "original_sha256": "e73302d15a822fa6c0d15a449969b6e35486b3e82c89b4d14e36ef81e6d85519",
+    "package_sha256": "f6be7c768345aaf4a63416e709e952136589c88b888ecad21d77d16e78896972"
+  },
+  {
+    "file": "experiments/gcrt-symmetric-centering-20261004/run.R",
+    "source": "experiments/gcrt-symmetric-centering-20261004/run.R",
+    "original_sha256": "4fc34cda62a7f22719f813acff6a27ea2089fd5734a38b952dfe765c9ef29b87",
+    "package_sha256": "cb65ed73c781876fd39509e1517e188b7bf64b02f3b4116878a5eb1dd182c89a"
+  },
+  {
+    "file": "provenance/historical-data-notes.md",
+    "source": "experiments/reproducible-study/data/README.md",
+    "original_sha256": "8722425125944a4ace62a38da66114f00dd8e3c6afd0df85a4d6796789773156",
+    "package_sha256": "e382cd2034b85daf54d25911f1f69d510ba85e340fd5c1896740efdad6bcac6b"
+  },
+  {
+    "file": "scripts/stock-transform-functions.R",
+    "source": "experiments/reference/early-experiments/20260927-211544/files/GroupSelection_2025/GS-Application/CSS-GGM/GGM-Test-Version0/Application/Stock/sym_piece_power_log.R",
+    "original_sha256": "d92c42c519665f6fa63287c7f96844e6db905b070a58e5776a6a5e6bf0eabede",
+    "package_sha256": "64a670aa05b232cfa05dd8adf1db6439c3ca54b523165ff8b3c540173edfd3a0"
+  },
+  {
+    "file": "scripts/check-stock-transform.R",
+    "source": "reports/20261003-200854-stage1-revision/check_stock_transform.R",
+    "original_sha256": "ef784b8c6bee13d37f4962221cf69d9e1c2a887de28155c3e16b6d8e744d8702",
+    "package_sha256": "dab097d2bef0550b59a41b63b14f072f87fca55b40f9bd90100f956e040fdeec"
+  }
+]

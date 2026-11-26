@@ -1,0 +1,118 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "check": "Simulation/CRT/oracle_plugin_benchmark_size.tex",
+      "items": 42,
+      "status": "passed",
+      "basis": "Each displayed value versus replication-level recomputation; tolerance is half its printed unit."
+    },
+    {
+      "check": "Section 7.1 maximum oracle/MVN difference",
+      "value": 0.02250000000000002,
+      "manuscript": 0.023,
+      "status": "passed"
+    },
+    {
+      "check": "Figures 3-9 plotted estimates and SEs",
+      "items": 566,
+      "failed_method_rows_preserved": 2,
+      "status": "passed"
+    },
+    {
+      "check": "E.5 paired Bonferroni comparison changes and MCSEs",
+      "status": "passed"
+    },
+    {
+      "check": "Simulation/CRT/joint_coordinatewise_oracle_comparison.tex",
+      "items": 112,
+      "status": "passed",
+      "basis": "Each displayed value versus replication-level recomputation; tolerance is half its printed unit."
+    },
+    {
+      "check": "E.5 maximum G-CRT/oracle difference",
+      "value": 0.04400000000000004,
+      "manuscript": 0.044,
+      "status": "passed"
+    },
+    {
+      "check": "inline/nongaussian-size.tex",
+      "items": 40,
+      "status": "passed",
+      "basis": "Each displayed value versus replication-level recomputation; tolerance is half its printed unit."
+    },
+    {
+      "check": "Figure 10 and Table 4: all Wilson intervals recomputed",
+      "items": 240,
+      "status": "passed"
+    },
+    {
+      "check": "Simulation/CRT/direction_mechanism.tex",
+      "items": 72,
+      "status": "passed",
+      "basis": "Each displayed value versus replication-level recomputation; tolerance is half its printed unit."
+    },
+    {
+      "check": "Simulation/CRT/centering_rates.tex",
+      "items": 60,
+      "status": "passed",
+      "basis": "Each displayed value versus replication-level recomputation; tolerance is half its printed unit."
+    },
+    {
+      "check": "Simulation/CRT/centering_paired.tex",
+      "items": 84,
+      "status": "passed",
+      "basis": "Each displayed value versus replication-level recomputation; tolerance is half its printed unit."
+    },
+    {
+      "check": "Simulation/CRT/connected_rates.tex",
+      "items": 48,
+      "status": "passed",
+      "basis": "Each displayed value versus replication-level recomputation; tolerance is half its printed unit."
+    },
+    {
+      "check": "Simulation/CRT/connected_paired.tex",
+      "items": 84,
+      "status": "passed",
+      "basis": "Each displayed value versus replication-level recomputation; tolerance is half its printed unit."
+    },
+    {
+      "check": "Application/Stock/Stock_Type-I-error.tex",
+      "items": 20,
+      "status": "passed",
+      "basis": "Each displayed value versus replication-level recomputation; tolerance is half its printed unit."
+    },
+    {
+      "check": "Application/Stock/Stock_pvalue.tex",
+      "items": 8,
+      "status": "passed",
+      "basis": "Each displayed value versus replication-level recomputation; tolerance is half its printed unit."
+    },
+    {
+      "check": "Section 8.1 94.3% versus 72.8% and all stock null/observed numbers",
+      "status": "passed"
+    },
+    {
+      "check": "Application/Stock/Stock_GoF.tex",
+      "items": 3,
+      "status": "passed",
+      "basis": "Each displayed value versus replication-level recomputation; tolerance is half its printed unit."
+    },
+    {
+      "check": "Application/BCR/BCR_Type-I-error.tex",
+      "items": 8,
+      "status": "passed",
+      "basis": "Each displayed value versus replication-level recomputation; tolerance is half its printed unit."
+    },
+    {
+      "check": "BCR 401 saved objective-bound summaries, p-values, and certificate flags",
+      "status": "passed",
+      "maximum_gap": 8.49656449020131e-06
+    },
+    {
+      "check": "Section 8.2 all four observed BCR p-values and 160/29/13/13 null counts",
+      "status": "passed"
+    }
+  ],
+  "scope": "Saved replication summaries; no model fitting in this command."
+}

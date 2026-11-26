@@ -1,0 +1,2 @@
+RUN Rscript --vanilla <initial-clean-package>/scripts/bcr-adopted.R bcr-null <initial-clean-package>/outputs/bcr-null-20261120T142808873805Z --trial
+Completed. Logs: <initial-clean-package>/outputs/bcr-null-20261120T142808873805Z

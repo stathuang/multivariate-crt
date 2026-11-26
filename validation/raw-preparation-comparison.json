@@ -1,0 +1,118 @@
+{
+  "stock": [
+    {
+      "field": "X",
+      "comparison": true
+    },
+    {
+      "field": "y",
+      "comparison": true
+    },
+    {
+      "field": "graph",
+      "comparison": true
+    },
+    {
+      "field": "targets",
+      "comparison": true
+    },
+    {
+      "field": "nulls",
+      "comparison": true
+    },
+    {
+      "field": "stocks",
+      "comparison": true
+    },
+    {
+      "field": "target_names",
+      "comparison": true
+    },
+    {
+      "field": "sectors",
+      "comparison": true
+    },
+    {
+      "field": "start_date",
+      "comparison": true
+    },
+    {
+      "field": "end_date",
+      "comparison": true
+    },
+    {
+      "field": "starting_point",
+      "comparison": "1 string mismatch"
+    },
+    {
+      "field": "null_seed_status",
+      "comparison": true
+    }
+  ],
+  "bcr": [
+    {
+      "field": "X",
+      "comparison": true
+    },
+    {
+      "field": "y",
+      "comparison": true
+    },
+    {
+      "field": "graph",
+      "comparison": true
+    },
+    {
+      "field": "target",
+      "comparison": true
+    },
+    {
+      "field": "null",
+      "comparison": true
+    },
+    {
+      "field": "panel",
+      "comparison": true
+    },
+    {
+      "field": "panel_probes",
+      "comparison": true
+    },
+    {
+      "field": "selected_probes",
+      "comparison": true
+    },
+    {
+      "field": "condition_probes",
+      "comparison": true
+    },
+    {
+      "field": "target_probes",
+      "comparison": true
+    },
+    {
+      "field": "selection",
+      "comparison": true
+    },
+    {
+      "field": "class_counts",
+      "comparison": true
+    },
+    {
+      "field": "selection_seed",
+      "comparison": true
+    },
+    {
+      "field": "endpoint",
+      "comparison": true
+    },
+    {
+      "field": "endpoint_limitation",
+      "comparison": true
+    },
+    {
+      "field": "scope",
+      "comparison": true
+    }
+  ]
+}

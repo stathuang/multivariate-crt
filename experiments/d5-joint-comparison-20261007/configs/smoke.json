@@ -1,0 +1,31 @@
+{
+  "name": "sparse-completion-smoke",
+  "n": 80,
+  "p": 120,
+  "t": 8,
+  "M": 999,
+  "L": 3,
+  "alpha": 0.05,
+  "nuisance_penalty": 0.2,
+  "target_penalty": 1.0,
+  "designs": [
+    "A",
+    "B"
+  ],
+  "arrangements": [
+    "connected"
+  ],
+  "cells": [
+    {
+      "pattern": "sparse",
+      "theta": 0.5
+    },
+    {
+      "pattern": "sparse",
+      "theta": 1.0
+    }
+  ],
+  "rep_start": 20000,
+  "rep_stop": 20002,
+  "scope": "Eight smoke datasets; excluded from formal results."
+}

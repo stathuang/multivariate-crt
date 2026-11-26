@@ -1,0 +1,12 @@
+{
+  "test": "connected",
+  "command": [
+    "<temporary-python>/bin/python",
+    "-B",
+    "scripts/run.py",
+    "connected",
+    "--trial"
+  ],
+  "exit_code": 0,
+  "seconds": 0.34967387514188886
+}

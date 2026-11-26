@@ -1,0 +1,12 @@
+{
+  "test": "maxcoeft",
+  "command": [
+    "<temporary-python>/bin/python",
+    "-B",
+    "scripts/run.py",
+    "maxcoeft",
+    "--trial"
+  ],
+  "exit_code": 0,
+  "seconds": 9.368346750037745
+}

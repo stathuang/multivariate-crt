@@ -1,0 +1,1351 @@
+{
+  "entry": "versions/v25/paper/Main.tex",
+  "files": [
+    {
+      "file": "Main.tex",
+      "sha256": "bb3d26e9e1eeca6bfc9a34cf77618a6a4a9c99ece757057c984840d0b108a7f7"
+    },
+    {
+      "file": "ManuscriptPreamble.tex",
+      "sha256": "9e992ca1615cc605a85cfda0a21a7937ef530b4327bb61e451d13500692ed5b1"
+    },
+    {
+      "file": "Abstract.tex",
+      "sha256": "dca813c0b84686e9080a593ab97a84d485e70b8dca21a7a7b5dfbc25abc4c9fb"
+    },
+    {
+      "file": "Introduction.tex",
+      "sha256": "df37b55dda4fd6ccbeea1f38b0737395dfefddaa2157a33d3543f9fa8b8a92b1"
+    },
+    {
+      "file": "Notation.tex",
+      "sha256": "c75eeb2ff2c9f2c49eea9a4ad50f8a6d60977a25e9fe68212b6f7150b8018540"
+    },
+    {
+      "file": "OracleCRT.tex",
+      "sha256": "5b0195a455489721f7077691ff6a0558bede45df86a5b9880f99f1412ffba87e"
+    },
+    {
+      "file": "MSCRTValidity.tex",
+      "sha256": "0976479dc23971d6368503ff802a0479a4b6a58cd103074ebdbfccd60d356748"
+    },
+    {
+      "file": "MSCRTConstructions.tex",
+      "sha256": "3fa1ba4b2f79a0e50b89dd7326b8d22da3e603fd6c9309c37962079bdf88cf24"
+    },
+    {
+      "file": "MVNCRTPower.tex",
+      "sha256": "c47f1cbab20e548fa8a54b95c9fece0e063456c2f8c9bc512297ecc0b844de36"
+    },
+    {
+      "file": "GCRTPower.tex",
+      "sha256": "b2ddfe1a164e043eced23fd27487b1407221b065779d7b93ee276e88384b3327"
+    },
+    {
+      "file": "Robustness.tex",
+      "sha256": "da318d56abb114222e48919403c4506e8c2e0a6a46d8456d464d6758f721b49d"
+    },
+    {
+      "file": "SimulationStudies.tex",
+      "sha256": "ac34d0ad5d9e690d5a8697bd5f22e35641642323781354f254426490750bc69d"
+    },
+    {
+      "file": "Simulation/CRT/oracle_plugin_benchmark_size.tex",
+      "sha256": "a57de645b12d461e8394b28bd00fa346bc921f29c73cfcacf1444a7aee9461b1"
+    },
+    {
+      "file": "RealDataIllustrations.tex",
+      "sha256": "f4651b8f815674bc7e461df92a63dd8cf99d10db7adc732d4362d7de859ddc14"
+    },
+    {
+      "file": "Discussion.tex",
+      "sha256": "e5b8871f0ce54efdd1a2647d4094f2bd72b65572694dff7f864ce847f3063243"
+    },
+    {
+      "file": "Appendix/AppendixOverview.tex",
+      "sha256": "4f7b78886788bac1481178db7e40678d1a3d0ea85206bc1754365e079ee7582f"
+    },
+    {
+      "file": "AppendixLiterature.tex",
+      "sha256": "4a89be382038ae77e9e895233bf2b6083c374f8e7c59ec140919a2df8e6e828e"
+    },
+    {
+      "file": "AppendixGaussianCRTComparison.tex",
+      "sha256": "ef26e0f57796b917f9f968748ff46e27fc9f45f123f34529915431998690b94c"
+    },
+    {
+      "file": "AppendixMethodsAndResults.tex",
+      "sha256": "9f6776aee3636be0962bc5d1408f052233c182f4236ce36a355bd7f0db64af70"
+    },
+    {
+      "file": "AppendixSupplementaryMethods.tex",
+      "sha256": "53aec54d236701de91329075e2af00bef5eb5601f3f433a8d70de9549f845165"
+    },
+    {
+      "file": "AppendixSupplementaryRobustness.tex",
+      "sha256": "2e88d56fc84b879b1b748fb9ce231877a48e01b9f1aa4892331a7bceb73f8d8a"
+    },
+    {
+      "file": "AppendixSupplementaryPower.tex",
+      "sha256": "654a93a270b64844873e8607083a4185edc1527cf8b2c7e2929a3e1d4534d4a7"
+    },
+    {
+      "file": "AppendixProofs.tex",
+      "sha256": "1b7a2b7b1ef90ff6a6a944e4b28aec6a6f24f10750201c9e08df4f129fc45bee"
+    },
+    {
+      "file": "AppendixHaarStiefelPreliminaries.tex",
+      "sha256": "1c968f2e2b97e443375e464c436729374624eef8eb319f23d92f5bc1476db1fa"
+    },
+    {
+      "file": "AppendixGCRTPowerProofs.tex",
+      "sha256": "60158e80d2df989e716f5cb813c4ac4d9bc0a58c17166de30edc1c32fbe82a6a"
+    },
+    {
+      "file": "AppendixRobustnessProofs.tex",
+      "sha256": "2d06882d785e5d5b02bbc0a7ff3d2c83a58099f2e663348dc8ca29e8c27ef9d0"
+    },
+    {
+      "file": "AppendixSimulationDetails.tex",
+      "sha256": "c2255f36a83303ef8a506e94a3119e5064adefbf6f951967f51da6b28c16c91e"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "sha256": "391ef89f70eb43bae79b50e4318120ac048d6f1251fb5633c6bfa7161893ebe6"
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "sha256": "789be38b4f627212ca809842512b1c32057014b56dfc1e7378a3a84f9f3f7f8c"
+    },
+    {
+      "file": "Simulation/CRT/joint_coordinatewise_oracle_comparison.tex",
+      "sha256": "6efa0dce98be2e5f274987a476a51da9d3bfc750d4bce9cb435e2b68f2d4fcbd"
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "sha256": "af6aa0537bb894af1427446d0a610e40078217388a44f3a88d5253301e0ebb2f"
+    },
+    {
+      "file": "Simulation/CRT/direction_mechanism.tex",
+      "sha256": "cd17875e74af3954ac2712c581879b7c673804cc203e58858d4c70345412f19b"
+    },
+    {
+      "file": "Simulation/CRT/centering_rates.tex",
+      "sha256": "17b26c06521452543070b46f7e6d2485ac1dc784e787bb52a48524c489a55305"
+    },
+    {
+      "file": "Simulation/CRT/centering_paired.tex",
+      "sha256": "acb7ce328193560caca1573d043ef961e318b826d11113cae5ef9da982927b85"
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "sha256": "1bdf45e77d487234e192e83192e994e3d1a6c3c17f802d83102eb47bafab0b3d"
+    },
+    {
+      "file": "Simulation/CRT/connected_rates.tex",
+      "sha256": "5fc9a2701d6cdd3b4a70187e7ae4e768eddb1986b9ac1bb09736a7b7ff6c5b0c"
+    },
+    {
+      "file": "Simulation/CRT/connected_paired.tex",
+      "sha256": "4c8a63e8909ed223e2aff258777d053f28ac8dd42caf9a608635e4d2968a3e39"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "sha256": "016aad9eaec5e0b507878d856d80e463abbfc27599598f4f98e1215e70e163c9"
+    },
+    {
+      "file": "Application/Stock/Stock_GoF.tex",
+      "sha256": "315acc532e58bf6b171113b0d637375e54e5819e34c6fd0c45eb3688019305e7"
+    },
+    {
+      "file": "Application/Stock/Stock_Type-I-error.tex",
+      "sha256": "5197611da4eeb27baa3daada760aba703fe71164bd99b6d519e3172602f74a6a"
+    },
+    {
+      "file": "Application/Stock/Stock_pvalue.tex",
+      "sha256": "73bd4181ea555a6e1e5db7e86ef0172fa24afa956d3f2f508006cc2917c255bc"
+    },
+    {
+      "file": "Application/BCR/BCR_Type-I-error.tex",
+      "sha256": "b6c5a3933957b5081063ce59d61321ee365d9c1808e1eb83d35625d3397c06a0"
+    }
+  ],
+  "assets": [
+    {
+      "kind": "table",
+      "file": "Simulation/CRT/oracle_plugin_benchmark_size.tex",
+      "source": "SimulationStudies.tex",
+      "line": 22,
+      "sha256": "a57de645b12d461e8394b28bd00fa346bc921f29c73cfcacf1444a7aee9461b1"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/CRT/oracle_plugin_power_curve.pdf",
+      "source": "SimulationStudies.tex",
+      "line": 29,
+      "sha256": "3fb93810101ad0f82be962c2b68f34b2605a7b68f2d37ec41558accf4c030c17"
+    },
+    {
+      "kind": "figure",
+      "file": "Application/Stock/Stock-Noise.pdf",
+      "source": "RealDataIllustrations.tex",
+      "line": 44,
+      "sha256": "fa23cbae97a98ae4c333b0fbe74d13ec95840c25dda4e2a099aa9f7725c4d8c6"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/CRT/CRT-l_l_w.pdf",
+      "source": "AppendixSimulationDetails.tex",
+      "line": 164,
+      "sha256": "5c6fb3f545fd2f0758d208a956415bfda7f986470c9f04c269071f84c9bd360e"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/CRT/CRT-h_l_w.pdf",
+      "source": "AppendixSimulationDetails.tex",
+      "line": 169,
+      "sha256": "e630645b0c92c7efa07c50071c92cfc095d08b1a4398ffc4392932131dbbdfce"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/CRT/CRT-l_l_m.pdf",
+      "source": "AppendixSimulationDetails.tex",
+      "line": 234,
+      "sha256": "bcffd1b863f90a5d15c7db5e49354c9ebec1ff9b2809cc5e31dedff630e506e8"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/CRT/CRT-h_l_m.pdf",
+      "source": "AppendixSimulationDetails.tex",
+      "line": 239,
+      "sha256": "446b12cfea3270f52c028f13be8d01e914cd87a86a16134b4de0a4e295af923e"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/CRT/CRT-l_gl_w.pdf",
+      "source": "AppendixSimulationDetails.tex",
+      "line": 284,
+      "sha256": "bb923f4eebd034bd8d30bb755c83fcef1083ab77cedee04cd6f4c91c71673bb0"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/CRT/CRT-h_gl_w.pdf",
+      "source": "AppendixSimulationDetails.tex",
+      "line": 289,
+      "sha256": "c49ee6fe6e549ce024834698f921a84c5fab81e6dbf8f125f788cdff6446802e"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/CRT/CRT-l_gl_m.pdf",
+      "source": "AppendixSimulationDetails.tex",
+      "line": 322,
+      "sha256": "b5f76102260038703e8c9812134e91701dd8417753d99729acf01543884d26d5"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/CRT/CRT-h_gl_m.pdf",
+      "source": "AppendixSimulationDetails.tex",
+      "line": 327,
+      "sha256": "9e131ed889aca391ea4838a7d10ac671db51448f3ed811011cbe5f25a7d4e956"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/Appendix/CRT-l_l_w-univariate.pdf",
+      "source": "AppendixAdditionalSimulations.tex",
+      "line": 8,
+      "sha256": "cf1ad17c38685879bb323b28f21250f804684e669d0552e1685acced0e417914"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/Appendix/CRT-h_l_w-univariate.pdf",
+      "source": "AppendixAdditionalSimulations.tex",
+      "line": 14,
+      "sha256": "f210d87face8d5efbd766c31be9685092bddc712da617881acf3373788ffbe78"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/Appendix/CRT-h_l_w-LM-R-SSR-OversizedGraphs.pdf",
+      "source": "AppendixAdditionalSimulations.tex",
+      "line": 39,
+      "sha256": "24b3d0c5ccc1a98df7063eae89d721b30f8467a70992f33e23f77098692b2c6e"
+    },
+    {
+      "kind": "table",
+      "file": "Simulation/CRT/joint_coordinatewise_oracle_comparison.tex",
+      "source": "JointAndCoordinatewiseComparison.tex",
+      "line": 61,
+      "sha256": "6efa0dce98be2e5f274987a476a51da9d3bfc750d4bce9cb435e2b68f2d4fcbd"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/Appendix/CRT-l_l_w-t3.pdf",
+      "source": "AppendixAdditionalSimulations.tex",
+      "line": 94,
+      "sha256": "209d90c9813e7da97d0e42f814026b2ad3a0a3046442c1cec45e629e6c5780ec"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/Appendix/CRT-h_l_w-t3.pdf",
+      "source": "AppendixAdditionalSimulations.tex",
+      "line": 100,
+      "sha256": "a5f4148c64e6aa1e06d6bb5d17af4b398b416c78c618083a5abee24b6c01399e"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/Appendix/MVN-CRT-nongaussian-rejection-rates.pdf",
+      "source": "AppendixAdditionalSimulations.tex",
+      "line": 142,
+      "sha256": "37c341baafcdf78d98f7d9809917c90da4a246431dac7f57b041e542263ee2a8"
+    },
+    {
+      "kind": "table",
+      "file": "Simulation/CRT/direction_mechanism.tex",
+      "source": "AppendixGCRTComparisons.tex",
+      "line": 46,
+      "sha256": "cd17875e74af3954ac2712c581879b7c673804cc203e58858d4c70345412f19b"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/CRT/centering_comparison.pdf",
+      "source": "AppendixGCRTComparisons.tex",
+      "line": 76,
+      "sha256": "95857e7d378350df799cdbbe4c314cef6b76c1d51382fedf321a6df6efd2bc9f"
+    },
+    {
+      "kind": "table",
+      "file": "Simulation/CRT/centering_rates.tex",
+      "source": "AppendixGCRTComparisons.tex",
+      "line": 96,
+      "sha256": "17b26c06521452543070b46f7e6d2485ac1dc784e787bb52a48524c489a55305"
+    },
+    {
+      "kind": "table",
+      "file": "Simulation/CRT/centering_paired.tex",
+      "source": "AppendixGCRTComparisons.tex",
+      "line": 115,
+      "sha256": "acb7ce328193560caca1573d043ef961e318b826d11113cae5ef9da982927b85"
+    },
+    {
+      "kind": "table",
+      "file": "Simulation/CRT/connected_rates.tex",
+      "source": "AppendixConnectedCentering.tex",
+      "line": 29,
+      "sha256": "5fc9a2701d6cdd3b4a70187e7ae4e768eddb1986b9ac1bb09736a7b7ff6c5b0c"
+    },
+    {
+      "kind": "figure",
+      "file": "Simulation/CRT/connected_comparison.pdf",
+      "source": "AppendixConnectedCentering.tex",
+      "line": 43,
+      "sha256": "ede7941ba01b99a2551613346bc22aa0aa4b28192c9b28d1540548051c527c34"
+    },
+    {
+      "kind": "table",
+      "file": "Simulation/CRT/connected_paired.tex",
+      "source": "AppendixConnectedCentering.tex",
+      "line": 65,
+      "sha256": "4c8a63e8909ed223e2aff258777d053f28ac8dd42caf9a608635e4d2968a3e39"
+    },
+    {
+      "kind": "figure",
+      "file": "Application/Stock/stocks_G.pdf",
+      "source": "AppendixRealDataIllustrations.tex",
+      "line": 90,
+      "sha256": "6cc544819440205dfa8c6b9ea94cb064a5ca490e3a94b36952e50eda8028915e"
+    },
+    {
+      "kind": "table",
+      "file": "Application/Stock/Stock_GoF.tex",
+      "source": "AppendixRealDataIllustrations.tex",
+      "line": 105,
+      "sha256": "315acc532e58bf6b171113b0d637375e54e5819e34c6fd0c45eb3688019305e7"
+    },
+    {
+      "kind": "table",
+      "file": "Application/Stock/Stock_Type-I-error.tex",
+      "source": "AppendixRealDataIllustrations.tex",
+      "line": 131,
+      "sha256": "5197611da4eeb27baa3daada760aba703fe71164bd99b6d519e3172602f74a6a"
+    },
+    {
+      "kind": "table",
+      "file": "Application/Stock/Stock_pvalue.tex",
+      "source": "AppendixRealDataIllustrations.tex",
+      "line": 147,
+      "sha256": "73bd4181ea555a6e1e5db7e86ef0172fa24afa956d3f2f508006cc2917c255bc"
+    },
+    {
+      "kind": "table",
+      "file": "Application/BCR/BCR_Type-I-error.tex",
+      "source": "AppendixRealDataIllustrations.tex",
+      "line": 241,
+      "sha256": "b6c5a3933957b5081063ce59d61321ee365d9c1808e1eb83d35625d3397c06a0"
+    },
+    {
+      "kind": "figure",
+      "file": "Application/BCR/P-LRT_histogram.pdf",
+      "source": "AppendixRealDataIllustrations.tex",
+      "line": 246,
+      "sha256": "0a3e25416bf0ab6a262190bbe1678ce45789cd70aa64551723cfa5896ffb243a"
+    }
+  ],
+  "floats": [
+    {
+      "kind": "table",
+      "source": "SimulationStudies.tex",
+      "line": 18,
+      "labels": [
+        "tab:joint-crt-benchmark-size"
+      ],
+      "assets": [
+        "Simulation/CRT/oracle_plugin_benchmark_size"
+      ]
+    },
+    {
+      "kind": "figure",
+      "source": "SimulationStudies.tex",
+      "line": 27,
+      "labels": [
+        "fig:oracle-plugin-power-curve"
+      ],
+      "assets": [
+        "Simulation/CRT/oracle_plugin_power_curve.pdf"
+      ]
+    },
+    {
+      "kind": "figure",
+      "source": "RealDataIllustrations.tex",
+      "line": 42,
+      "labels": [
+        "fig: stock noise"
+      ],
+      "assets": [
+        "Application/Stock/Stock-Noise.pdf"
+      ]
+    },
+    {
+      "kind": "table",
+      "source": "JointAndCoordinatewiseComparison.tex",
+      "line": 49,
+      "labels": [
+        "tab:matched-direct-comparison",
+        "tab:matched-statistic-geometry"
+      ],
+      "assets": [
+        "Simulation/CRT/joint_coordinatewise_oracle_comparison"
+      ]
+    },
+    {
+      "kind": "figure",
+      "source": "AppendixAdditionalSimulations.tex",
+      "line": 3,
+      "labels": [
+        "fig: linear regression-univariate"
+      ],
+      "assets": [
+        "Simulation/Appendix/CRT-l_l_w-univariate.pdf",
+        "Simulation/Appendix/CRT-h_l_w-univariate.pdf"
+      ]
+    },
+    {
+      "kind": "figure",
+      "source": "AppendixAdditionalSimulations.tex",
+      "line": 37,
+      "labels": [
+        "fig: varying graphsize"
+      ],
+      "assets": [
+        "Simulation/Appendix/CRT-h_l_w-LM-R-SSR-OversizedGraphs.pdf"
+      ]
+    },
+    {
+      "kind": "figure",
+      "source": "AppendixAdditionalSimulations.tex",
+      "line": 89,
+      "labels": [
+        "fig: linear regression-t3"
+      ],
+      "assets": [
+        "Simulation/Appendix/CRT-l_l_w-t3.pdf",
+        "Simulation/Appendix/CRT-h_l_w-t3.pdf"
+      ]
+    },
+    {
+      "kind": "figure",
+      "source": "AppendixAdditionalSimulations.tex",
+      "line": 140,
+      "labels": [
+        "fig:mvn-nongaussian-rejection-rates"
+      ],
+      "assets": [
+        "Simulation/Appendix/MVN-CRT-nongaussian-rejection-rates.pdf"
+      ]
+    },
+    {
+      "kind": "table",
+      "source": "AppendixAdditionalSimulations.tex",
+      "line": 147,
+      "labels": [
+        "tab:mvn-nongaussian-size"
+      ],
+      "assets": []
+    },
+    {
+      "kind": "table",
+      "source": "AppendixSimulationDetails.tex",
+      "line": 42,
+      "labels": [
+        "tab:mscrt-statistic-catalogue"
+      ],
+      "assets": []
+    },
+    {
+      "kind": "figure",
+      "source": "AppendixSimulationDetails.tex",
+      "line": 161,
+      "labels": [
+        "fig: app llw",
+        "fig:llw",
+        "fig: app hlw",
+        "fig:hlw",
+        "fig: app linear regression",
+        "fig: linear regression"
+      ],
+      "assets": [
+        "Simulation/CRT/CRT-l_l_w.pdf",
+        "Simulation/CRT/CRT-h_l_w.pdf"
+      ]
+    },
+    {
+      "kind": "figure",
+      "source": "AppendixSimulationDetails.tex",
+      "line": 231,
+      "labels": [
+        "fig: app llm",
+        "fig:llm",
+        "fig: app hlm",
+        "fig:hlm",
+        "fig: app nonlinear regression",
+        "fig: nonlinear regression"
+      ],
+      "assets": [
+        "Simulation/CRT/CRT-l_l_m.pdf",
+        "Simulation/CRT/CRT-h_l_m.pdf"
+      ]
+    },
+    {
+      "kind": "figure",
+      "source": "AppendixSimulationDetails.tex",
+      "line": 281,
+      "labels": [
+        "fig: app lglw",
+        "fig:lglw",
+        "fig: app hglw",
+        "fig:hglw",
+        "fig: app logistic regression",
+        "fig: logistic regression"
+      ],
+      "assets": [
+        "Simulation/CRT/CRT-l_gl_w.pdf",
+        "Simulation/CRT/CRT-h_gl_w.pdf"
+      ]
+    },
+    {
+      "kind": "figure",
+      "source": "AppendixSimulationDetails.tex",
+      "line": 319,
+      "labels": [
+        "fig: app lglm",
+        "fig:lglm",
+        "fig: app hglm",
+        "fig:hglm",
+        "fig: app nonlinear binary",
+        "fig: nonlinear binary"
+      ],
+      "assets": [
+        "Simulation/CRT/CRT-l_gl_m.pdf",
+        "Simulation/CRT/CRT-h_gl_m.pdf"
+      ]
+    },
+    {
+      "kind": "table",
+      "source": "AppendixConnectedCentering.tex",
+      "line": 21,
+      "labels": [
+        "tab:connected-centering-rates"
+      ],
+      "assets": [
+        "Simulation/CRT/connected_rates"
+      ]
+    },
+    {
+      "kind": "figure",
+      "source": "AppendixConnectedCentering.tex",
+      "line": 41,
+      "labels": [
+        "fig:connected-centering"
+      ],
+      "assets": [
+        "Simulation/CRT/connected_comparison.pdf"
+      ]
+    },
+    {
+      "kind": "table",
+      "source": "AppendixConnectedCentering.tex",
+      "line": 57,
+      "labels": [
+        "tab:connected-centering-paired"
+      ],
+      "assets": [
+        "Simulation/CRT/connected_paired"
+      ]
+    },
+    {
+      "kind": "table",
+      "source": "AppendixGCRTComparisons.tex",
+      "line": 38,
+      "labels": [
+        "tab:direction-mechanism"
+      ],
+      "assets": [
+        "Simulation/CRT/direction_mechanism"
+      ]
+    },
+    {
+      "kind": "figure",
+      "source": "AppendixGCRTComparisons.tex",
+      "line": 74,
+      "labels": [
+        "fig:centering-comparison"
+      ],
+      "assets": [
+        "Simulation/CRT/centering_comparison.pdf"
+      ]
+    },
+    {
+      "kind": "table",
+      "source": "AppendixGCRTComparisons.tex",
+      "line": 88,
+      "labels": [
+        "tab:centering-rates"
+      ],
+      "assets": [
+        "Simulation/CRT/centering_rates"
+      ]
+    },
+    {
+      "kind": "table",
+      "source": "AppendixGCRTComparisons.tex",
+      "line": 107,
+      "labels": [
+        "tab:centering-paired"
+      ],
+      "assets": [
+        "Simulation/CRT/centering_paired"
+      ]
+    },
+    {
+      "kind": "figure",
+      "source": "AppendixRealDataIllustrations.tex",
+      "line": 87,
+      "labels": [
+        "fig: sp100_G"
+      ],
+      "assets": [
+        "Application/Stock/stocks_G.pdf"
+      ]
+    },
+    {
+      "kind": "table",
+      "source": "AppendixRealDataIllustrations.tex",
+      "line": 101,
+      "labels": [
+        "tab: GoF stock"
+      ],
+      "assets": [
+        "Application/Stock/Stock_GoF"
+      ]
+    },
+    {
+      "kind": "table",
+      "source": "AppendixRealDataIllustrations.tex",
+      "line": 123,
+      "labels": [
+        "tab: fund error check"
+      ],
+      "assets": [
+        "Application/Stock/Stock_Type-I-error"
+      ]
+    },
+    {
+      "kind": "table",
+      "source": "AppendixRealDataIllustrations.tex",
+      "line": 140,
+      "labels": [
+        "tab: fund p-value"
+      ],
+      "assets": [
+        "Application/Stock/Stock_pvalue"
+      ]
+    },
+    {
+      "kind": "table",
+      "source": "AppendixRealDataIllustrations.tex",
+      "line": 233,
+      "labels": [
+        "tab:appendix BCR type 1"
+      ],
+      "assets": [
+        "Application/BCR/BCR_Type-I-error"
+      ]
+    },
+    {
+      "kind": "figure",
+      "source": "AppendixRealDataIllustrations.tex",
+      "line": 244,
+      "labels": [
+        "fig: BCR pvalue lrt"
+      ],
+      "assets": [
+        "Application/BCR/P-LRT_histogram.pdf"
+      ]
+    }
+  ],
+  "numeric_passages": [
+    {
+      "file": "SimulationStudies.tex",
+      "line": 16,
+      "text": "We fix the ridge penalty at one, so the statistic is well defined even when $t>d$. The MLE and d.f. plug-in procedures fit the conditional means by least squares and estimate the covariance from the residuals, with denominator $n$ (MLE) or $d$ (d.f.). The LW procedure uses the covariance estimator and diagonal variance adjustment in Appendix D.10 of \\citet{liu_fast_2022}, adapted to the multivariate target by conditioning the fitted Gaussian distribution on the background covariates. MVN-CRT uses the construction in Section~\\ref{sec:mvn-CRT}, with the intercept adjustment in Remark~\\ref{rem: general mean for MVN}. For all procedures, we compute p-values by \\eqref{eqn:pval-1} and reject at level $0.05$. Appendix~\\ref{app:joint-crt-benchmark} gives the data-generating model and sampling details, including the interpretation of the plug-in covariance estimates when $t>d$."
+    },
+    {
+      "file": "SimulationStudies.tex",
+      "line": 20,
+      "text": "\\caption{Estimated size (\\%) at nominal level $0.05$ for the five CRT procedures, all using the ridge gain statistic. Here $d=n-s-1$. Each size estimate is based on $5000$ replications with $M=999$ randomised copies per replication. Monte Carlo standard errors are in parentheses.}"
+    },
+    {
+      "file": "SimulationStudies.tex",
+      "line": 25,
+      "text": "Table~\\ref{tab:joint-crt-benchmark-size} shows that the estimated sizes of the oracle CRT and MVN-CRT remain near the nominal level in all three settings. The MLE and d.f. plug-in procedures are oversized, even in the first two settings, where their covariance estimates are nonsingular. The degrees of freedom adjustment reduces but does not remove the Type I error inflation. The LW procedure has estimated sizes $4.9\\%$, $5.2\\%$, and $17.8\\%$. Thus, regularisation substantially reduces the Type I error inflation, but does not restore nominal size in the third setting, despite a positive-definite fitted conditional covariance. These results show that plug-in CRTs fitted on the testing covariates can have substantial Type I error inflation even under a correctly specified Gaussian model."
+    },
+    {
+      "file": "SimulationStudies.tex",
+      "line": 29,
+      "text": "\\includegraphics[width=0.95\\textwidth]{Simulation/CRT/oracle_plugin_power_curve.pdf}"
+    },
+    {
+      "file": "SimulationStudies.tex",
+      "line": 30,
+      "text": "\\caption{Rejection rates at nominal level $0.05$ for the five procedures and settings in Table~\\ref{tab:joint-crt-benchmark-size}. At each signal strength, including $\\theta=0$, we use $400$ replications with $M=199$ randomised copies per replication. Error bars show one Monte Carlo standard error. The points at $\\theta=0$ estimate size in this experiment. Curves for oversized plug-in procedures are shown for reference and do not provide valid power comparisons.}"
+    },
+    {
+      "file": "SimulationStudies.tex",
+      "line": 34,
+      "text": "In Figure~\\ref{fig:oracle-plugin-power-curve}, the oracle CRT and MVN-CRT have similar rejection rates over the displayed alternatives; the largest observed absolute difference is $0.023$ after rounding. These rejection rates and their Monte Carlo standard errors suggest little power loss from conditioning on sufficient statistics in these Gaussian settings. The higher rejection rates of the oversized plug-in procedures do not establish a power advantage."
+    },
+    {
+      "file": "SimulationStudies.tex",
+      "line": 36,
+      "text": "Additional simulations examine the size of MVN-CRT under non-Gaussian covariate models. With standardised multivariate $t_5$ and $t_3$ covariate errors, its estimated sizes are close to the nominal level of $5\\%$ (Appendix~\\ref{app:mvn-nongaussian})."
+    },
+    {
+      "file": "SimulationStudies.tex",
+      "line": 44,
+      "text": "We vary a signal parameter $\\theta$, with $\\theta=0$ giving the null, and test at nominal level $0.05$."
+    },
+    {
+      "file": "RealDataIllustrations.tex",
+      "line": 19,
+      "text": "In simulations under fitted null models (Appendix~\\ref{app:stock-preliminary}), the four CRTs reject in $0.8\\%$--$7.3\\%$ of replications at threshold $0.05$, compared with $26.0\\%$ and $15.0\\%$ for the de-sparsified Lasso with $\\mc T_1$ and $\\mc T_2$, respectively."
+    },
+    {
+      "file": "RealDataIllustrations.tex",
+      "line": 24,
+      "text": "$\\mc T_1$ and $\\mc T_2$ at the $5\\%$ threshold."
+    },
+    {
+      "file": "RealDataIllustrations.tex",
+      "line": 39,
+      "text": "At a noise standard deviation of $0.10$ percentage points, its detection"
+    },
+    {
+      "file": "RealDataIllustrations.tex",
+      "line": 40,
+      "text": "rate is $94.3\\%$, compared with $72.8\\%$ for dCRT (L1)."
+    },
+    {
+      "file": "RealDataIllustrations.tex",
+      "line": 44,
+      "text": "\\includegraphics[width=0.90\\linewidth]{Application/Stock/Stock-Noise.pdf}"
+    },
+    {
+      "file": "RealDataIllustrations.tex",
+      "line": 45,
+      "text": "\\caption{Empirical detection rates at level $0.05$ for $\\mc T_2$ after adding independent Gaussian noise to each entry of the observed DIA response, based on 400 replications per noise level. The noise standard deviation $\\sigma$ is measured in percentage points. All four methods returned finite p-values in every replication.}\\label{fig: stock noise}"
+    },
+    {
+      "file": "RealDataIllustrations.tex",
+      "line": 55,
+      "text": "The likelihood ratio test gives a p-value of approximately $9.58\\times10^{-6}$ under its chi-squared reference distribution. To examine this approximation, we use 400 replications under conditional independence, keeping $\\mc S$ and $\\mc T$ fixed. Responses are generated from a multinomial model fitted using only $\\bs{X}_{\\mc S}$. At the nominal $5\\%$ level, the likelihood ratio test rejects $40.0\\%$ of the time, compared with $7.3\\%$ for $G$-CRT and $3.3\\%$ for each dCRT baseline."
+    },
+    {
+      "file": "RealDataIllustrations.tex",
+      "line": 58,
+      "text": "the $5\\%$ threshold (p-value $0.018$), whereas the coordinatewise"
+    },
+    {
+      "file": "RealDataIllustrations.tex",
+      "line": 60,
+      "text": "do not (p-values $0.697$ and $0.407$, respectively)."
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "line": 20,
+      "text": "Let $p_R$ and $p_{\\max}$ be the $G$-CRT p-values computed by \\eqref{eqn:pval-1} with the uncentred ridge and MaxCoefT statistics, respectively. The combined test uses the Bonferroni p-value $\\min\\{1,2\\min(p_R,p_{\\max})\\}$."
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "line": 45,
+      "text": "This p-value is one if $d_j\\leq1$, $\\|\\bs r_j\\|=0$ or $\\|\\bs u_j\\|=0$. The graph-based coordinatewise test uses the Bonferroni p-value $\\min\\{1,t\\min_{j\\in\\mathcal T}p_j^G\\}$."
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "line": 52,
+      "text": "\\small\\setstretch{1.05}"
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "line": 54,
+      "text": "\\renewcommand{\\arraystretch}{1.15}"
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "line": 55,
+      "text": "\\caption{Rejection rates (\\%) at nominal level $0.05$, based on 500 replications per setting. Coord. G is the graph-based coordinatewise test with Bonferroni correction. Ridge denotes the uncentred ridge statistic, and MaxCoefT is defined in \\eqref{eq:matched-maxcoeft}. Combined applies Bonferroni correction to the ridge and MaxCoefT p-values. Each marginal Monte Carlo standard error is at most 2.3 percentage points.}"
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "line": 66,
+      "text": "We fix $n=80$, $p=120$ and $t=8$, with target set $\\mathcal T=\\{1,\\ldots,8\\}$ and background set $\\mathcal S=\\mathcal T^c$. Before marginal rescaling, the precision matrix has diagonal entries one and off-diagonal entries $a$ for $0<|i-j|\\leq b$ and zero otherwise, with $(b,a)=(6,0.20)$ in design A and $(1,-0.45)$ in design B. We rescale each covariate to have variance one and let $\\mathbf\\Sigma$ be the resulting covariance matrix. We generate independent covariate vectors $\\boldsymbol X_i\\sim \\mathcal{N}_p(\\boldsymbol0,\\mathbf\\Sigma)$, $i=1,\\ldots,n$."
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "line": 74,
+      "text": "where $\\boldsymbol\\gamma=(1,-0.7,0.5,0.3,0,\\ldots,0)^\\top$, and the $\\varepsilon_i$ are independent standard Gaussian variables, independent of the covariates."
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "line": 75,
+      "text": "The normalisation of $\\boldsymbol v$ makes the target component in \\eqref{eq:matched-ridge-response} have conditional variance $\\theta^2$ given the background covariates. For each design, we use 500 independent replications for the null $\\theta=0$ and for both dense and sparse alternatives at $\\theta=0.5,0.75,1$."
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "line": 77,
+      "text": "The uncentred ridge statistic and the coordinatewise test use a background ridge fit with penalty $0.2n$. The target penalty for the uncentred ridge statistic is one. The MaxCoefT statistic uses a Lasso background fit with the tuning rule in Appendix~\\ref{app:experimental-pvalue-conventions}. Both $G$-CRT and the oracle joint CRT use $M=999$ randomised copies, and $G$-CRT uses $L=3$ sweeps. Within each sampler and replication, the two statistics use the same copies. Each test rejects when its p-value is at most $0.05$."
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "line": 83,
+      "text": "In the settings considered, $G$-CRT achieves power close to the corresponding oracle joint CRTs without knowing the covariate mean or precision matrix. Across all settings in Table~\\ref{tab:matched-direct-comparison}, their rejection rates differ by at most $4.4$ percentage points. Under the null, the rejection rates of the four graph-based tests range from $3.8\\%$ to $5.8\\%$."
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "line": 85,
+      "text": "In these experiments, $G$-CRT can achieve high power when the coordinatewise test has low power, but this advantage depends on the statistic. For the dense alternatives, $G$-CRT with the uncentred ridge statistic is more powerful than the coordinatewise test in design B, whereas the ordering is reversed in design A. Replacing the uncentred ridge statistic with MaxCoefT increases the power of $G$-CRT in design A but reduces it in design B. These patterns hold at each of the three signal strengths considered. For example, at $\\theta=0.75$, $G$-CRT with the uncentred ridge statistic has a rejection rate of $75.8\\%$ in design B, compared with $10.0\\%$ for the coordinatewise test. In design A, the corresponding rates are $39.6\\%$ and $82.8\\%$, respectively. For the sparse alternatives, $G$-CRT with MaxCoefT is more powerful than both the coordinatewise test and $G$-CRT with the uncentred ridge statistic in both designs."
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "line": 89,
+      "text": "To quantify the individual conditional effects, let $\\mathbf\\Omega=\\mathbf\\Sigma^{-1}$, and let $\\beta_j$ be the coefficient of target $j$ in \\eqref{eq:matched-ridge-response}. Since $1/\\Omega_{jj}=\\operatorname{Var}(X_j\\mid\\boldsymbol X_{-j})$, the part of the response signal that remains after conditioning on all covariates other than target $j$ has standard deviation $|\\beta_j|/\\sqrt{\\Omega_{jj}}$. We measure this signal relative to the noise and account for sample size through $\\sqrt n|\\beta_j|/(\\sigma\\sqrt{\\Omega_{jj}})$, where $\\sigma=1$ is the noise standard deviation. For example, at $\\theta=0.75$, these effects range from $3.514$ to $3.722$ in design A and from $0.934$ to $1.198$ in design B, while the conditional signal variance of the target group is $0.5625$ in both designs. Thus, at the same group signal strength, design B provides much less signal for detecting an individual conditional effect. This is consistent with the low power of the coordinatewise test and $G$-CRT with MaxCoefT in B, alongside the higher power of $G$-CRT with the uncentred ridge statistic, which uses the overall improvement in fit."
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "line": 93,
+      "text": "For the dense alternative at $\\theta=0.75$, we numerically approximate the expectations in \\eqref{gcrtb:eq:population} using the background covariate samples from the 500 replications in each design. The target contribution gives a larger positive difference between the observed and randomised gains in design B than in design A. Its interaction with the remaining background contribution further increases this difference in B and reduces it in A. Together, the two terms give leading approximations of $0.0408$ in A and $0.0945$ in B for the observed gain minus a randomised gain. Thus, the leading calculation places the observed gain further above the randomised gains in B, providing a possible explanation for the higher rejection rate of $G$-CRT with the uncentred ridge statistic: $75.8\\%$ in B compared with $39.6\\%$ in A, despite the same group signal strength."
+    },
+    {
+      "file": "JointAndCoordinatewiseComparison.tex",
+      "line": 95,
+      "text": "The combined test draws on both statistics without selecting one in advance. Across the alternatives considered, its rejection rate exceeds that of the less powerful component, while it is lower than that of the more powerful component in some settings and higher in others. The Bonferroni adjustment imposes a stricter threshold on each p-value, while allowing either component to trigger rejection. For example, in design B at $\\theta=0.75$, the combined test has a rejection rate of $70.0\\%$ under the dense alternative, compared with $75.8\\%$ for $G$-CRT with the uncentred ridge statistic. Under the sparse alternative, its rejection rate is $87.0\\%$, compared with $81.2\\%$ for $G$-CRT with MaxCoefT. Relative to the more powerful component in each setting, these are a decrease and an increase of $5.8$ percentage points, with paired Monte Carlo standard errors of $1.1$ and $1.4$ percentage points, respectively."
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 6,
+      "text": "\\begin{minipage}{0.48\\textwidth}"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 12,
+      "text": "\\begin{minipage}{0.48\\textwidth}"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 18,
+      "text": "\\caption{Rejection rates at nominal level $0.05$ for testing univariate conditional independence in linear regression with target set $\\mc T=\\{1\\}$. (a) $n=50$ and $p=20$; (b) $n=80$ and $p=120$. Each point uses $400$ replications; error bars show one Monte Carlo standard error. The points at $\\theta=0$ estimate size. The estimated size of dCRT in panel (a) is $0.1550$, so its curve is shown only for reference.}"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 22,
+      "text": "To examine whether the conditional sampling used by the $G$-CRT leads to a substantial loss of power for a single target covariate, we revisit the linear regression experiment from Appendix~\\ref{sec: simulation CRT linear regression} with $\\mc T=\\{1\\}$. Figure~\\ref{fig: linear regression-univariate} presents the results. In the low-dimensional setting, the $G$-CRT with either the LM-SST or LM-SSR statistic has power comparable to that of the classical $F$-test. In the high-dimensional setting, the $G$-CRT with either the LM-L1-R-SST or LM-L1-R-SSR statistic has power broadly comparable to that of the de-sparsified Lasso and dCRT, although its observed power is lower at the larger signal strengths. For example, at $\\theta=1.5$, the $G$-CRT with LM-L1-R-SSR has power $0.5900$, compared with $0.6525$ for the de-sparsified Lasso and $0.6700$ for dCRT."
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 39,
+      "text": "\\includegraphics[width=0.6\\linewidth]{Simulation/Appendix/CRT-h_l_w-LM-R-SSR-OversizedGraphs.pdf}"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 40,
+      "text": "\\caption{Rejection rates at nominal level $0.05$ for the $G$-CRT in linear regression with $n=80$ and $p=120$. The conditional independence graph $G_0$ has bandwidth $K=6$; its supergraphs $G_1$ and $G_2$ have bandwidths $K=12$ and $K=18$, respectively. Each point uses $400$ replications; error bars show one Monte Carlo standard error. The points at $\\theta=0$ estimate size.}"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 45,
+      "text": "At $\\theta=0.5$, the powers under $G_0$, $G_1$ and $G_2$ are $0.2650$, $0.2375$ and $0.2025$, respectively; at $\\theta=1$, they are $0.9200$, $0.8800$ and $0.8400$."
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 46,
+      "text": "At $\\theta=1.5$, all three powers exceed $0.99$, despite the maximum neighbourhood size of $36$ under $G_2$ compared with $12$ under $G_0$."
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 69,
+      "text": "Define $k=6$, $\\boldsymbol{\\gamma}=(\\gamma_1,\\ldots,\\gamma_k)=(1,1,-1,-1,1,1)/5$ and $\\sigma_{\\varepsilon}=0.7$."
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 92,
+      "text": "\\begin{minipage}{0.48\\textwidth}"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 98,
+      "text": "\\begin{minipage}{0.48\\textwidth}"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 104,
+      "text": "\\caption{Rejection rates at nominal level $0.05$ for testing conditional independence in linear regression with non-Gaussian covariates. (a) $n=50$ and $p=20$; (b) $n=80$ and $p=120$. Each point uses $400$ replications; error bars show one Monte Carlo standard error. The points at $\\theta=0$ estimate size.}"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 111,
+      "text": "Figure~\\ref{fig: linear regression-t3} shows estimated sizes between $0.0450$ and $0.0650$ for the $G$-CRT at nominal level $0.05$."
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 113,
+      "text": "In the high-dimensional setting, the $G$-CRT with the LM-L1-R-SSR statistic has higher observed power than the Bonferroni-adjusted de-sparsified Lasso and dCRT at all positive signal strengths shown; at $\\theta=0.75$, the respective powers are $0.8950$, $0.8050$ and $0.7575$."
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 123,
+      "text": "We generate $\\bs Z_i\\sim\\mathcal N_{12}(0,\\mathbf I_{12})$ and $\\bs G_i\\sim\\mathcal N_8(0,\\mathbf\\Sigma)$ independently, where the covariance matrix $\\mathbf\\Sigma$ has entries $\\Sigma_{jk}=0.5^{|j-k|}$ for $j,k=1,\\ldots,8$. We compare Gaussian covariate errors $\\bs{\\varepsilon}_i=\\bs G_i$ with standardized multivariate $t_\\nu$ errors $\\bs{\\varepsilon}_i=\\sqrt{(\\nu-2)/V_i}\\,\\bs G_i$, for $\\nu=5$ and $3$, where $V_i\\sim\\chi^2_\\nu$ is independent of $(\\bs Z_i,\\bs G_i)$. Each observation has its own $V_i$, shared by its eight target coordinates. All three error distributions have mean zero and covariance $\\mathbf\\Sigma$."
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 138,
+      "text": "In all three models, we apply the Gaussian MVN-CRT with the intercept adjustment in Remark~\\ref{rem: general mean for MVN}. We use the ridge gain statistic in \\eqref{eq:simulation-ridge-gain}, with penalty one. The background projections for both the response and the targets use an intercept and the twelve original background covariates. Each setting uses $1000$ independent replications and $M=199$ randomised copies per replication. We compute p-values by \\eqref{eqn:pval-1} and evaluate rejection rates at nominal levels $\\alpha=0.005,0.010,\\ldots,0.100$. Figure~\\ref{fig:mvn-nongaussian-rejection-rates} displays these rates with pointwise $95\\%$ Wilson confidence intervals based on the observed rejection counts; Table~\\ref{tab:mvn-nongaussian-size} reports the rates and intervals at $\\alpha=0.05$."
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 143,
+      "text": "\\caption{Empirical rejection rates of MVN-CRT under Gaussian and standardized multivariate $t_5$ and $t_3$ covariate errors. Rows give sample sizes $n=50,100,200,400$; columns give the three error distributions in that order. Nominal levels range from $0.005$ to $0.100$ in increments of $0.005$. Both axes are percentages. Each setting uses $1000$ null replications with $M=199$ randomised copies and the ridge gain statistic. The dashed line marks equality of the rejection rate and nominal level. Shading shows pointwise $95\\%$ Wilson confidence intervals based on the observed rejection counts.}"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 150,
+      "text": "\\small\\setstretch{1.05}"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 152,
+      "text": "\\renewcommand{\\arraystretch}{1.15}"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 153,
+      "text": "\\caption{Estimated size (\\%) of MVN-CRT at nominal level $0.05$ under Gaussian and standardized multivariate $t_5$ and $t_3$ covariate errors. The background and target dimensions are $12$ and $8$, respectively. Each estimate uses $1000$ replications with $M=199$ randomised copies and the ridge gain statistic. Pointwise $95\\%$ Wilson confidence intervals are in brackets.}"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 159,
+      "text": "$50$ & 4.4 [3.3, 5.9] & 6.0 [4.7, 7.6] & 5.0 [3.8, 6.5] \\\\"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 160,
+      "text": "$100$ & 5.0 [3.8, 6.5] & 4.9 [3.7, 6.4] & 4.8 [3.6, 6.3] \\\\"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 161,
+      "text": "$200$ & 4.6 [3.5, 6.1] & 5.5 [4.2, 7.1] & 6.0 [4.7, 7.6] \\\\"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 162,
+      "text": "$400$ & 5.5 [4.2, 7.1] & 5.3 [4.1, 6.9] & 5.6 [4.3, 7.2] \\\\"
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 167,
+      "text": "At nominal level $0.05$, Table~\\ref{tab:mvn-nongaussian-size} gives estimated rejection rates of $4.8\\%$--$6.0\\%$ under the two multivariate $t$ distributions, compared with $4.4\\%$--$5.5\\%$ under Gaussian errors. The largest estimated excess over $5\\%$ among the non-Gaussian settings is one percentage point."
+    },
+    {
+      "file": "AppendixAdditionalSimulations.tex",
+      "line": 169,
+      "text": "Figure~\\ref{fig:mvn-nongaussian-rejection-rates} also shows departures at smaller nominal levels. For $t_3$ errors, the estimated rejection rate is $1.9\\%$ at nominal level $1\\%$ when $n=200$, and $1.4\\%$ at nominal level $0.5\\%$ when $n=400$. The latter exceeds the nominal level by $0.9$ percentage points and is $2.8$ times that level. Thus, a small absolute difference can correspond to appreciable relative inflation at a small nominal level."
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 3,
+      "text": "We examine whether vector centring reduces the sensitivity of $G$-CRT power to the sign of the background contribution, with the conditional target signal held fixed. The experiment extends the comparisons in Appendix~\\ref{app:centering-simulation} to conditionally dependent targets and more background variables than observations. We use $n=80$ observations, $t=8$ target variables and $s=112$ background variables. Let $\\mathbf\\Theta$ be the $8\\times8$ tridiagonal matrix with diagonal entries one and adjacent entries $-0.2$, and define $\\mathbf V=\\mathbf\\Theta^{-1}$. Define $\\lambda_*=1-0.4\\cos(\\pi/9)$ and the unit vector $\\bs v\\in\\mathbb R^8$ by $v_j=\\sqrt{2/9}\\sin(j\\pi/9)$, $j=1,\\ldots,8$, so $\\mathbf\\Theta\\bs v=\\lambda_*\\bs v$. Independently for each $i=1,\\ldots,n$, generate mutually independent $\\bs S_i\\sim \\mathcal{N}_{112}(0,\\mathbf I_{112})$, $\\bs E_i\\sim \\mathcal{N}_8(0,\\mathbf V)$ and $\\varepsilon_i\\sim \\mathcal{N}(0,1)$. For each $b\\in\\{-1,1\\}$ and $r\\in\\{0,0.15,0.30,0.60\\}$, use"
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 6,
+      "text": "\\bs X_{i,\\mathcal T}=0.5\\bs v S_{i1}+\\bs E_i,\\qquad"
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 7,
+      "text": "Y_i=(b-0.5r\\sqrt{\\lambda_*})S_{i1}+r\\sqrt{\\lambda_*}\\bs X_{i,\\mathcal T}^\\top\\bs v+\\varepsilon_i."
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 13,
+      "text": "With conditionally dependent targets, the residual score vectors of the copies can retain part of the target signal after these scans. The matrix $\\mathbf F$ in \\eqref{gcrtint:eq:scan} describes this retention: in the leading approximations \\eqref{gcrtb:eq:observed-score-approximation} and \\eqref{gcrtb:eq:randomised-score-approximation}, it maps the target signal contribution for the observation to that for each copy. For this graph and scan order, $\\|\\mathbf F\\|_{\\mathbf\\Theta}\\approx0.0598$, so each copy retains at most about $6\\%$ of the observed target signal contribution in the norm induced by $\\mathbf\\Theta$. Thus, even with $L=1$, the difference between the leading target signal contributions retains most of the observed signal."
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 17,
+      "text": "We compare three $G$-CRT tests using the residual score vectors and regularised residual Gram matrices in \\eqref{gcrtcent:eq:residual-scores}. One test uses the uncentred gain $\\bs c_v^\\top\\mathbf D_v^{-1}\\bs c_v$, which yields the same candidate ordering as the uncentred ridge statistic by \\eqref{gcrtb:eq:rank}. The other two use the symmetrically centred ridge residual scores in \\eqref{eq:symmetric-centered-statistic}, with $\\mathbf W=\\mathbf D_{\\rm pool}^{-1}$ for the inverse pooled Gram weight and $\\mathbf W=\\mathbf I_8$ for unit weight. The background penalty is $0.2n$, the target penalty is $\\lambda_n=1$, and the intercept is unpenalised. For each test, we calculate the conservative p-value from unrounded scores by \\eqref{eq:crt-pvalue-conservative} and reject when $p\\leq0.05$."
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 24,
+      "text": "\\small\\setstretch{1.05}"
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 26,
+      "text": "\\renewcommand{\\arraystretch}{1.15}"
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 27,
+      "text": "\\caption{Rejection rates (\\%) for five $G$-CRT tests with dependent targets at nominal level $0.05$, based on 2,500 replications per setting. The inverse pooled Gram and unit weights are $\\mathbf W=\\mathbf D_{\\rm pool}^{-1}$ and $\\mathbf W=\\mathbf I_8$, respectively. For each weight, the two columns compare the uncentred statistic with the statistic using vector centring.}"
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 43,
+      "text": "\\includegraphics[width=0.96\\textwidth]{Simulation/CRT/connected_comparison.pdf}"
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 45,
+      "text": "targets and 112 background variables, at $n=80$ and level 0.05."
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 46,
+      "text": "Each response setting uses 2,500 independent replications. Error bars are pointwise 95\\% exact binomial intervals;"
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 51,
+      "text": "Figure~\\ref{fig:connected-centering} shows that the power of each of the two $G$-CRT tests with centred statistics changes little when the sign of the background contribution is reversed, whereas the test with the uncentred ridge statistic has higher power for $b=1$ than for $b=-1$. For example, at $r=0.60$, the rejection rates under $b=-1$ and $b=1$ are $29.0\\%$ and $29.4\\%$ for the centred test with the inverse pooled Gram weight, and $41.2\\%$ and $42.1\\%$ for the centred test with unit weight. The corresponding rates for the test with the uncentred ridge statistic are $28.3\\%$ and $59.9\\%$. At this signal strength, the centred tests have similar or higher power than the test with the uncentred ridge statistic for $b=-1$, and lower power for $b=1$."
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 53,
+      "text": "Under the null ($r=0$), the three tests in Figure~\\ref{fig:connected-centering} have rejection rates close to the nominal level $0.05$ for both signs of the background contribution; all six 95\\% confidence intervals contain $0.05$."
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 60,
+      "text": "\\small\\setstretch{1.05}"
+    },
+    {
+      "file": "AppendixConnectedCentering.tex",
+      "line": 62,
+      "text": "\\renewcommand{\\arraystretch}{1.15}"
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 6,
+      "text": "For each $n\\in\\{40,120,360\\}$, we use 500 independent replications. Within each replication, the three responses share the same Gaussian variables and randomised covariate copies. We use Algorithm~\\ref{alg: exchangeable} with the conditional independence graph and $M=999$ copies, and the uncentred ridge statistic in \\eqref{gcrtint:eq:statistic} with background penalty $n$ and target penalty 1. We take $L=1$: each target has only $Z$ as a graph neighbour, so one sweep suffices to redraw both residual directions. We compute the p-value by \\eqref{eq:crt-pvalue-conservative} at nominal level $0.05$."
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 41,
+      "text": "\\small\\setstretch{1.05}"
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 43,
+      "text": "\\renewcommand{\\arraystretch}{1.15}"
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 44,
+      "text": "\\caption{Scores and rejection rates in the finite-sample direction contrast. We use 500 independent replications for each sample size. Within each replication, we generate the three responses from the same Gaussian draws and use the same randomised covariate copies to compute the scores and p-values for all three responses. Scores include the response normalisation in \\eqref{gcrtb:eq:rank}. SE is the Monte Carlo standard error of the mean of $T_0-\\bar T$ across replications. Rejection rates are percentages at nominal level $0.05$, with pointwise 95\\% exact binomial confidence intervals in brackets.}"
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 49,
+      "text": "The results show a pronounced power difference between the two target directions at every sample size. Power increases towards one under the positive alternative and remains near zero under the negative alternative. For example, at $n=120$, the rejection rates are $99.0\\%$ and $0.0\\%$, respectively. The mean score gaps have the predicted signs throughout; at $n=360$, they are $0.1825$ and $-0.0607$. Under the null, the rejection rates range from $5.4\\%$ to $5.6\\%$."
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 67,
+      "text": "from unrounded scores and reject at level $0.05$."
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 76,
+      "text": "\\includegraphics[width=0.96\\textwidth]{Simulation/CRT/centering_comparison.pdf}"
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 77,
+      "text": "\\caption{Paired comparison of the four statistics at level 0.05."
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 78,
+      "text": "Each point is based on 100 replications. Error bars are pointwise 95\\% exact"
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 81,
+      "text": "The dotted horizontal lines mark the nominal level of 0.05.}"
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 91,
+      "text": "\\small\\setstretch{1.05}"
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 93,
+      "text": "\\renewcommand{\\arraystretch}{1.15}"
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 94,
+      "text": "\\caption{Rejection rates (\\%) for four $G$-CRT tests at nominal level $0.05$, based on 100 replications per setting. For vector centring, the inverse pooled Gram weight is $\\mathbf W=\\mathbf D_{\\rm pool}^{-1}$ and unit weight is $\\mathbf W=\\mathbf I_2$.}"
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 101,
+      "text": "Under the negative fixed alternative, both forms of centring gain power as $n$ increases, while the uncentred test never rejects. With vector centring and the inverse pooled Gram weight, the rejection rates are 35.0\\%, 74.0\\% and 99.0\\% at $n=40,120,360$, respectively. Scalar centring and squaring reaches a rejection rate of $85.0\\%$ at $n=360$. Under the positive fixed alternative, the test with vector centring and the inverse pooled Gram weight has lower rejection rates than the uncentred test at $n=40$ and $120$: 26.0\\% versus 49.0\\% and 81.0\\% versus 97.0\\%, respectively. All four tests reject in every replication at $n=360$ under the positive fixed alternative."
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 103,
+      "text": "Under the weak orthogonal alternative in Proposition~\\ref{prop:gcrt-centering-comparisons}(b), both tests with vector centring have higher rejection rates than the other two tests at every sample size. Their rejection rates increase with $n$, even though the signal strength $r_n=n^{-1/3}$ decreases. For example, at $n=360$, the rejection rates are $55.0\\%$ with the inverse pooled Gram weight and $51.0\\%$ with unit weight, compared with $12.0\\%$ for scalar centring and squaring and $14.0\\%$ for the uncentred test."
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 110,
+      "text": "\\small\\setstretch{1.05}"
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 112,
+      "text": "\\renewcommand{\\arraystretch}{1.15}"
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 122,
+      "text": "Figure~\\ref{fig:centering-comparison}, all 95\\% confidence intervals for the"
+    },
+    {
+      "file": "AppendixGCRTComparisons.tex",
+      "line": 123,
+      "text": "rejection probabilities contain the nominal level $0.05$."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 48,
+      "text": "\\operatorname{sign}(z)\\{a+0.01\\log|z|\\}, & |z|\\geq c,"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 51,
+      "text": "where $a=c^\\lambda-0.01\\log c$ and $z$ is a median-centred return."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 52,
+      "text": "We select $\\lambda$ from 20 equally spaced values between 0.1 and 2, and"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 53,
+      "text": "$c$ from 20 equally spaced values between the 80\\% empirical quantile and"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 58,
+      "text": "0.05. For these two stocks, we instead start with the uncentred returns"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 60,
+      "text": "$u_i=Z_i-\\min_k Z_k+0.01(\\max_k Z_k-\\min_k Z_k)$."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 71,
+      "text": "to $2$ in steps of $0.1$. The selected values are $\\lambda=1.4$ for MMM"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 72,
+      "text": "and $\\lambda=1.5$ for MO."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 83,
+      "text": "We estimate $G$ using the graphical Lasso (GLasso) with regularisation parameter $\\lambda=0.15$ and with no penalty on edges between stocks in the same sector."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 84,
+      "text": "The resulting graph $\\widehat{G}$ has maximum degree $30$ and median degree 19, with around $18.4\\%$ of node pairs connected."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 90,
+      "text": "\\includegraphics[scale=0.8]{Application/Stock/stocks_G.pdf}"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 96,
+      "text": "The p-values are listed in Table~\\ref{tab: GoF stock} and are all above 0.3. We report them as descriptive diagnostics for the GGM with $\\widehat{G}$ in this exploratory analysis."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 113,
+      "text": "All random forests in the stock analysis use 1,000 trees, including both stages of RF-RR and the response fits for dCRT (RF). We chose this setting after diagnostics for $\\mc T_1$ showed that p-values for the $G$-CRT with RF-RR varied substantially with forest randomness at 100 trees."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 118,
+      "text": "At nominal level $0.05$, the rejection rates of the four CRTs range from $0.8\\%$ to $7.3\\%$, compared with $26.0\\%$ and $15.0\\%$ for the de-sparsified Lasso with $\\mc T_1$ and $\\mc T_2$, respectively (Table~\\ref{tab: fund error check})."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 126,
+      "text": "\\small\\setstretch{1.05}"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 128,
+      "text": "\\renewcommand{\\arraystretch}{1.15}"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 129,
+      "text": "\\caption{Rejection rates (\\%) under the fixed fitted null model for the stock return analysis. Results are based on 400 replications at nominal level $0.05$. Monte Carlo standard errors are in parentheses. The $G$-CRT columns use the indicated statistics; the dCRT columns use Lasso (L1) or random forest (RF) fits.}"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 142,
+      "text": "\\small\\setstretch{1.05}"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 144,
+      "text": "\\renewcommand{\\arraystretch}{1.15}"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 145,
+      "text": "\\caption{p-values of MCI tests with different $\\mc T$ on the DIA returns. The $G$-CRT columns use the indicated statistics; the dCRT columns use Lasso (L1) or random forest (RF) fits.}\\label{tab: fund p-value}"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 152,
+      "text": "For $\\mc T_1$, the $G$-CRT with LM-L1-R-SSR and dCRT (L1) reject at the $5\\%$ level, whereas the $G$-CRT with RF-RR and dCRT (RF) do not (Table~\\ref{tab: fund p-value})."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 155,
+      "text": "For $\\mc{T}_2$, both $G$-CRTs and dCRT (L1) reject at the $5\\%$ level, whereas dCRT (RF), with p-value $0.084$, does not."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 162,
+      "text": "We assess sensitivity to added noise using $\\tilde{\\bs Y}=\\bs Y+\\sigma\\bs\\varepsilon$, where $\\bs\\varepsilon\\sim\\mathcal N_n(\\bs0,\\mathbf I_n)$. The response is expressed as a percentage return, so $\\sigma\\in\\{0.05,0.10,0.15,0.20,0.25\\}$ is measured in percentage points. All methods use the same perturbed response in each replication and refit their background models. The covariate matrix, graph and target set remain fixed. We use 400 replications at each noise level, with the same seed for corresponding replications across levels."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 166,
+      "text": "Figure~\\ref{fig: stock noise} in Section~\\ref{sec: fund} presents the empirical detection rates across the five noise levels. The $G$-CRT with LM-L1-R-SSR has the highest empirical detection rate among the four CRT procedures at all five noise levels, tied with dCRT (L1) at the lowest noise level. For example, at $\\sigma=0.10$, its detection rate is $94.3\\%$, compared with $72.8\\%$ for dCRT (L1). Both tests based on linear models have higher detection rates than the two tests based on random forests throughout the examined range. Detection rates generally decline as noise increases; dCRT (RF) rises from $31.5\\%$ at $\\sigma=0.05$ to $35.0\\%$ at $\\sigma=0.10$ before declining."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 198,
+      "text": "z_{i}^{(\\text{INT})} = \\Phi^{-1}\\left( \\frac{r_{i}-0.5}{n} \\right),"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 219,
+      "text": "The likelihood ratio test compares the unpenalised multinomial logistic models using $\\bs{X}_{\\mc{S}}$ alone and using both $\\bs{X}_{\\mc{S}}$ and $\\bs{X}_{\\mc{T}}$. Its p-value uses the asymptotic chi-squared reference distribution with $18(K-1)$ degrees of freedom, where $K$ is the number of observed response categories. Some fits exhibit separation, so we compute the log-likelihood suprema even when finite maximum likelihood estimates do not exist. For both the observed data and all 400 simulated datasets, we verify the log-likelihood values using lower and upper bounds with a gap of at most $10^{-5}$."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 220,
+      "text": "This gives a p-value of approximately $9.58\\times10^{-6}$. In the simulation under conditional independence reported in Table~\\ref{tab:appendix BCR type 1}, however, the test rejects in $40.0\\%$ of replications at the nominal $5\\%$ level. We use the $G$-CRT to avoid relying on the chi-squared approximation."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 231,
+      "text": "We run 400 replications with $\\mc S$ and $\\mc T$ fixed. When a simulated response omits a category, we use the observed number of categories to determine the LRT degrees of freedom and omit unused category levels from the RF fit. All four methods yield p-values in all 400 replications. This simulation does not repeat probe selection or the inverse normal transformation and does not establish validity of the p-value obtained after selection in the original analysis."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 236,
+      "text": "\\small\\setstretch{1.05}"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 238,
+      "text": "\\renewcommand{\\arraystretch}{1.15}"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 239,
+      "text": "\\caption{Rejection rates (\\%) under the fitted null model with the selected probe sets held fixed. Results are based on 400 replications at $\\alpha=0.05$. Monte Carlo standard errors are in parentheses.}"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 246,
+      "text": "\\includegraphics[scale=0.5]{Application/BCR/P-LRT_histogram.pdf}"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 247,
+      "text": "\\caption{Histogram of p-values obtained by the likelihood ratio test in 400 replications under the fitted null model, with the selected probe sets held fixed. The p-values use the chi-squared reference distribution after numerical verification of the log-likelihood values.}"
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 251,
+      "text": "At the nominal $5\\%$ level, the LRT rejects in $40.0\\%$ of replications, compared with $7.3\\%$ for $G$-CRT and $3.3\\%$ for each dCRT baseline (Table~\\ref{tab:appendix BCR type 1}). Figure~\\ref{fig: BCR pvalue lrt} shows an excess of small LRT p-values, indicating that the chi-squared approximation is inaccurate in this setting. The rejection rates of the three CRTs are much closer to the nominal level."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 264,
+      "text": "On the observed data, the p-values are $0.018$, $0.697$, and $0.407$ for $G$-CRT with the RF statistic, dCRT (L1), and dCRT (RF), respectively."
+    },
+    {
+      "file": "AppendixRealDataIllustrations.tex",
+      "line": 266,
+      "text": "At the $5\\%$ level, the $G$-CRT rejects the joint null, whereas neither coordinatewise dCRT does. Its rejection rate under the fitted null is much closer to the nominal level than that of the likelihood ratio test. The differences in the observed p-values also reflect the treatment of the response categories and the scoring methods. Appendix~\\ref{app:matched-ridge} compares $G$-CRT with a coordinatewise test using the same graph and with oracle joint CRTs using the same statistics."
+    }
+  ]
+}

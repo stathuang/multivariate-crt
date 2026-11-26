@@ -1,0 +1,12 @@
+{
+  "test": "stock",
+  "command": [
+    "<temporary-python>/bin/python",
+    "-B",
+    "scripts/run.py",
+    "stock",
+    "--trial"
+  ],
+  "exit_code": 0,
+  "seconds": 148.27402187511325
+}

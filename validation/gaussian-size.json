@@ -1,0 +1,12 @@
+{
+  "test": "gaussian-size",
+  "command": [
+    "<temporary-python>/bin/python",
+    "-B",
+    "scripts/run.py",
+    "gaussian-size",
+    "--trial"
+  ],
+  "exit_code": 0,
+  "seconds": 4.610653542215005
+}

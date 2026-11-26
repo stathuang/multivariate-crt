@@ -1,0 +1,12 @@
+{
+  "test": "univariate",
+  "command": [
+    "<temporary-python>/bin/python",
+    "-B",
+    "scripts/run.py",
+    "E12",
+    "--trial"
+  ],
+  "exit_code": 0,
+  "seconds": 4.478828875115141
+}

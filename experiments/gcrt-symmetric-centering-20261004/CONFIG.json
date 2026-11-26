@@ -1,0 +1,45 @@
+{
+  "sample_sizes": [
+    40,
+    120,
+    360
+  ],
+  "repetitions_per_n": 100,
+  "M": 19,
+  "L": 1,
+  "background_penalty_coefficient": 1,
+  "target_penalty": 1,
+  "alpha": 0.05,
+  "cases": {
+    "null": 0,
+    "positive": 0.25,
+    "negative": -0.25,
+    "orthogonal": "r=n^(-1/3)"
+  },
+  "response": "null/positive/negative: Y=Z+b*(E1+E2)+epsilon; orthogonal: Y=Z+n^(-1/3)*(E1-E2)/sqrt(2)+epsilon",
+  "target": [
+    "Z+E1",
+    "Z+E2"
+  ],
+  "background": "Z",
+  "seed_base": 2026100323,
+  "seed_rule": "seed_base+10000*n_index+replicate; n_index=1,2,3; replicate=1,...,100",
+  "rng": [
+    "Mersenne-Twister",
+    "Inversion",
+    "Rejection"
+  ],
+  "methods": [
+    "original",
+    "centered_pool",
+    "centered_identity",
+    "scalar_twosided"
+  ],
+  "p_rule": "(1+number(copy score >= observed score))/(M+1)",
+  "score_rounding": "none",
+  "reject_rule": "p<=0.05",
+  "failure_rule": "retain identifier/error; no replacement or reduced denominator",
+  "paired": "same Z,E1,E2,epsilon and hub/branches for all responses; no additional random draws for added response or checks",
+  "scope": "Exploratory numerical check only; no parameter expansion or optimization; not manuscript evidence or mathematical proof",
+  "scalar_twosided_definition": "B_v=(A_v-mean(A_0,...,A_M))^2; A_v is the unchanged original ridge score"
+}

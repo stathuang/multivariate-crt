@@ -1,0 +1,2 @@
+RUN Rscript --vanilla <initial-clean-package>/experiments/readable-experiments/run.R E19
+Completed. Logs: <initial-clean-package>/outputs/stock-graph-20261120T142910544479Z

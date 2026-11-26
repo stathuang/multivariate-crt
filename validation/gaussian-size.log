@@ -1,0 +1,2 @@
+RUN Rscript --vanilla -e "options(readable.trial=TRUE,lw.workers=1L); source(\"E01.R\")"
+Completed. Logs: <initial-clean-package>/outputs/gaussian-size-20261120T142718637754Z

@@ -1,0 +1,12 @@
+{
+  "test": "binary-low",
+  "command": [
+    "<temporary-python>/bin/python",
+    "-B",
+    "scripts/run.py",
+    "E07",
+    "--trial"
+  ],
+  "exit_code": 0,
+  "seconds": 16.114487290848047
+}

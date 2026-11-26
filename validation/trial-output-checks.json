@@ -1,0 +1,51 @@
+{
+  "readable": [
+    {
+      "entry": "E03",
+      "rows": 110,
+      "failed": 0,
+      "all_finite": true
+    },
+    {
+      "entry": "E05",
+      "rows": 72,
+      "failed": 0,
+      "all_finite": true
+    },
+    {
+      "entry": "E07",
+      "rows": 70,
+      "failed": 0,
+      "all_finite": true
+    },
+    {
+      "entry": "E09",
+      "rows": 72,
+      "failed": 0,
+      "all_finite": true
+    },
+    {
+      "entry": "E08",
+      "rows": 96,
+      "failed": 0,
+      "all_finite": true
+    },
+    {
+      "entry": "E12",
+      "rows": 110,
+      "failed": 0,
+      "all_finite": true
+    },
+    {
+      "entry": "E14",
+      "rows": 110,
+      "failed": 0,
+      "all_finite": true
+    }
+  ],
+  "stock_null": {
+    "rows": 5,
+    "maximum_difference": 0.0,
+    "status": "passed"
+  }
+}

@@ -1,0 +1,6 @@
+stock_typeI_T1 pending 1 of 1 workers 1 
+Nodewise regressions will be computed as no argument Z was provided.
+You can store Z to avoid the majority of the computation next time around.
+Z only depends on the design matrix x.
+repeat 1 saved in 36.20s; failed cells 0
+Finished stock_typeI_T1 timing_completed median repeat 36.2 seconds

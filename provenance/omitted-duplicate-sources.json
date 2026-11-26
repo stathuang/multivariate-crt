@@ -1,0 +1,104 @@
+[
+  {
+    "source": "experiments/reproducible-study/R/application_diagnostics.R",
+    "package": "experiments/reproducible-study/R/application_diagnostics.R",
+    "sha256": "f0f232ae9990a8c3baabe2796a306baee6a16136f5702518404a6a2e6dc49d11",
+    "bytes": 7470
+  },
+  {
+    "source": "experiments/reproducible-study/R/applications.R",
+    "package": "experiments/reproducible-study/R/applications.R",
+    "sha256": "3ad00c1a5a7bed13b0ea8b6cd75dd2bf9232572850961dbf97bbcd08e1d49c80",
+    "bytes": 21100
+  },
+  {
+    "source": "experiments/reproducible-study/R/baseline_cache_candidate.R",
+    "package": "experiments/reproducible-study/R/baseline_cache_candidate.R",
+    "sha256": "0ff4801dd1213e8672d9f00d26b4a4ae58bd87b66a9035432c914709134044a7",
+    "bytes": 2141
+  },
+  {
+    "source": "experiments/reproducible-study/R/baselines.R",
+    "package": "experiments/reproducible-study/R/baselines.R",
+    "sha256": "1a5b431afee3c2170afe3e7a840b9450d70b3eafbbde2d0ac36f6555faccd1fe",
+    "bytes": 7820
+  },
+  {
+    "source": "experiments/reproducible-study/R/binary_likelihood.R",
+    "package": "experiments/reproducible-study/R/binary_likelihood.R",
+    "sha256": "3b059297d1ff3b3dbcdeaac4b9a14e4a2cdf345aed57f9e00db8af18d306fef0",
+    "bytes": 13367
+  },
+  {
+    "source": "experiments/reproducible-study/R/cgm_diagnostics.R",
+    "package": "experiments/reproducible-study/R/cgm_diagnostics.R",
+    "sha256": "9bc4fd3d68b7ef0319c45f0becb461b332624b9451e17fa43e5ff202f4005beb",
+    "bytes": 2771
+  },
+  {
+    "source": "experiments/reproducible-study/R/core.R",
+    "package": "experiments/reproducible-study/R/core.R",
+    "sha256": "5f7a0bc5b4068dc9b13a5e6f5ceadd5692d408e48debcf3718ea2d0885113921",
+    "bytes": 3751
+  },
+  {
+    "source": "experiments/reproducible-study/R/multinomial_likelihood.R",
+    "package": "experiments/reproducible-study/R/multinomial_likelihood.R",
+    "sha256": "b5f5e89b4cee38b1aa731a5580ecccf3789c9312b16fc00754b0371d052d8706",
+    "bytes": 13174
+  },
+  {
+    "source": "experiments/reproducible-study/R/result_diagnostics.R",
+    "package": "experiments/reproducible-study/R/result_diagnostics.R",
+    "sha256": "91278dac9354dd780d20b2e793f324bc772efd4616f306660de2f3302eb0e7c4",
+    "bytes": 2380
+  },
+  {
+    "source": "experiments/reproducible-study/R/simulation.R",
+    "package": "experiments/reproducible-study/R/simulation.R",
+    "sha256": "e5ac8d343f616d4c40685cb78314ddd1859409f1caaca2552e108645d9dc8754",
+    "bytes": 17342
+  },
+  {
+    "source": "experiments/reproducible-study/R/statistics.R",
+    "package": "experiments/reproducible-study/R/statistics.R",
+    "sha256": "bdd5f5122b32c3d468e29323051c134af056893f0927edef073f95471fa0bc67",
+    "bytes": 5905
+  },
+  {
+    "source": "experiments/reproducible-study/scripts/common.R",
+    "package": "experiments/reproducible-study/scripts/common.R",
+    "sha256": "ceb9141c74a4bb4425e0ba1b3a2178bef77f10a0b453e990852757790e5f627c",
+    "bytes": 6659
+  },
+  {
+    "source": "experiments/reproducible-study/scripts/run.R",
+    "package": "experiments/reproducible-study/scripts/run.R",
+    "sha256": "c312a6182909ee89d18b624d22508e6d35d3bd8ac9e47b6f16ba3b19e314b771",
+    "bytes": 11583
+  },
+  {
+    "source": "experiments/reproducible-study/scripts/worker.R",
+    "package": "experiments/reproducible-study/scripts/worker.R",
+    "sha256": "d66b78142c6e81d6b45a93fb8d7688a164864e3bb51dad2f5dd948c6dcfb09ad",
+    "bytes": 3255
+  },
+  {
+    "source": "experiments/reproducible-study/scripts/render.R",
+    "package": "experiments/reproducible-study/scripts/render.R",
+    "sha256": "bcec48a2da19194b033ef7fb76c0c1f7aba67756b5a213f55b6814651ac0ee02",
+    "bytes": 1562
+  },
+  {
+    "source": "experiments/reproducible-study/config/applications.json",
+    "package": "experiments/reproducible-study/config/applications.json",
+    "sha256": "cf17a4948b186c33859fecda3e469179a2483f558e29f36b61e490a91aa8197f",
+    "bytes": 20449
+  },
+  {
+    "source": "experiments/reproducible-study/vendor/PROVENANCE.md",
+    "package": "experiments/reproducible-study/vendor/PROVENANCE.md",
+    "sha256": "5273c89699c0c9440a86402f9cb735e7853af6de0ed702d9100da4bec42c1ed9",
+    "bytes": 3943
+  }
+]

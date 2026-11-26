@@ -1,0 +1,31 @@
+{
+  "n": 80,
+  "t": 8,
+  "s": 112,
+  "M": 99,
+  "L": 1,
+  "alpha": 0.05,
+  "background_penalty_coefficient": 0.2,
+  "target_penalty": 1,
+  "signal": [
+    0,
+    0.15,
+    0.3,
+    0.6
+  ],
+  "background_sign": [
+    -1,
+    1
+  ],
+  "replicates": 2500,
+  "data_seed_base": 126040000,
+  "sampler_seed_base": 226040000,
+  "rng": [
+    "Mersenne-Twister",
+    "Inversion",
+    "Rejection"
+  ],
+  "score_rounding": "none",
+  "p_rule": "(1+sum(copy >= observed))/(M+1)",
+  "failure_rule": "stop and retain; no replacement or denominator reduction"
+}

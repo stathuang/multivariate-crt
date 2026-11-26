@@ -1,0 +1,12 @@
+{
+  "test": "matched",
+  "command": [
+    "<temporary-python>/bin/python",
+    "-B",
+    "scripts/run.py",
+    "matched",
+    "--trial"
+  ],
+  "exit_code": 0,
+  "seconds": 6.485359833110124
+}
